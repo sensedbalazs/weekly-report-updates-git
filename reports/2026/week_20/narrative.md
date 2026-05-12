@@ -5,5 +5,3 @@
 - **Instruments**: Create Mockup for Beamlines
 - **MPS**: MPS SIS Screens Updates w Daniele Cosco
 - **Soma**: pancsol 16.40-17.10
-- **Ági**: Portugália
-- Oviszunet!
