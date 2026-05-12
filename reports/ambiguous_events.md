@@ -1,6 +1,6 @@
 # Ambiguous Events — Awaiting Categorization
 
-Generated on: 2026-05-12 08:54
+Generated on: 2026-05-12 08:57
 
 ## Summary
 
@@ -380,7 +380,7 @@ Generated on: 2026-05-12 08:54
 - **AI Learning** | 2026-05-12 08:30 — 2026-05-12 10:00 | 1h 30m | category: ambiguous
 - **Instruments: Create Mockup for Beamlines** | 2026-05-12 11:30 — 2026-05-12 12:00 | 30m | category: ambiguous
   - Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/H_WOmMbjcDfk4GS2
-- **SFI tesztvizsga** | 2026-05-12 16:00 — 2026-05-12 20:00 | 4h 0m | category: ambiguous
+- **Instruments: Create Mockup for Beamlines** | 2026-05-12 12:00 — 2026-05-12 15:00 | 3h 0m | category: ambiguous
 - **Ági Portugália** | 2026-05-13 00:00 — 2026-05-21 00:00 | 192h 0m | category: ambiguous | all-day
 - **Ági Cseke's birthday** | 2026-05-13 00:00 — 2026-05-14 00:00 | 24h 0m | category: ambiguous | all-day
 - **Oviszunet!** | 2026-05-14 00:00 — 2026-05-15 00:00 | 24h 0m | category: ambiguous | all-day
