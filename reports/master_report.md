@@ -1,7 +1,5 @@
 # ESS Weekly Progress
 
-# ESS Weekly Progress
-
 **Foundation Phase — June 2024 – June 2025**
 
 **2024**
@@ -54,6 +52,7 @@
 
 ---
 
+
 **Week 1 — December 29 – January 04, 2026**
 
 - Ancsa Hohol's birthday
@@ -71,7 +70,6 @@
 - Lemondani a Yousiciant
 - Masszazs
 - Gábor Jutasi's birthday
-- Flight to Koppenhága (FR 80)
 - Coursera lemondása
 - Fundamenta utalás Hitelkiváltó
 
@@ -111,9 +109,7 @@
 - **Jose**: call about Boardgame
 - **Soma**: pancsol 16.40-17.10
 - **Time**: report
-- Fault Tracker UX Kickoff Meeting
 - Kivenni Somat ovibol jovo hetfore
-- Fault Tracker Kickoff Meeting
 - Portal Nyolcason szolni hogy a mosogepen van wifi
 - Fault Tracker - User roles Diagram
 - Fault Tracker users diagram
@@ -141,7 +137,6 @@
 - Deviation Elliptical OPIs into Phoebus
 - Deviation OPIs. Figma 2 Phoebus
 - Fault Tracker
-- Kifli.hu szállítás
 - EvoPro Call
 - Water Manifold
 - Blood Test PSA - Sankt Hans
@@ -164,12 +159,9 @@
 - Water Manifold
 - Vízóraállás rögzítés
 - Könyvelőnek havi számlák leadása
-- Kickoff meeting for iSrc Interlock screens
 - Allasra valasz
 - Utalas a georgioeknak
-- IonSource Kickoff Meeting
 - Archiver Meeting
-- Archiver Frontend Kickoff Meeting
 - Beáta Rakaczki's birthday
 
 
@@ -282,14 +274,12 @@
 
 - **CRYO**: Update of CDS-Valvebox Overview with space adjustments.
 - **Fotó**: kompó
-- **Good**: Friday / Office closed
 - **ISrc**: TS4 version of the Interlock System
 - **Instruments**: Instrument Status OPI
 - **Tax**: admin
 - Update of CDS-Valvebox Overview with space adjustments.
 - Tamás Szigeti's birthday
 - Instruments Beamline OPI Mockup
-- Maundy Thursday / Office closed
 - Vízóraállás rögzítés
 - Oviszunet!
 - Zsolt Hetyei's birthday
@@ -305,7 +295,6 @@
 - **Soma**: pancsol 16.40-17.10
 - **Éva**: Kompár's birthday
 - Oviszunet!
-- Easter Monday / Office closed
 - Admin Tasks
 - György Szy's birthday
 - Konyvklub
@@ -400,7 +389,6 @@
 
 **Week 20 — May 11 – May 17, 2026**
 
-- **38.**: *X Experience Breakfast (ONLINE)
 - **AI**: Learning
 - **Instruments**: Create Mockup for Beamlines
 - **MPS**: MPS SIS Screens Updates w Daniele Cosco
@@ -411,7 +399,6 @@
 - György Mező's birthday
 - Oviszunet!
 - evopro csapatépítés
-- Office Closed
 - Erkelyen levo foglalatot megnezni.
 
 
@@ -443,8 +430,6 @@
 - Könyvelőnek havi számlák leadása
 - Pestre mennék egyedül
 - Szilvia Kassay's birthday
-- Office Closed
-- Flight to Budapest (W6 2252)
 
 
 **Week 24 — June 08 – June 14, 2026**
@@ -452,7 +437,6 @@
 - **Rita**: Farkas's birthday
 - Dávid Ráday's birthday
 - Fundamenta utalás Hitelkiváltó
-- Flight to Copenhagen (W6 2251)
 
 
 **Week 25 — June 15 – June 21, 2026**
