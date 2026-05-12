@@ -1,46 +1,46 @@
 date,start,end,title,duration,category,all_day,description
-2026-01-01,2026-01-01 00:00,2026-01-02 00:00,Ancsa Hohol's birthday,24h 0m,ambiguous,True,
-2026-01-02,2026-01-02 00:00,2026-01-03 00:00,Orsolya Kass's birthday,24h 0m,ambiguous,True,
-2026-01-02,2026-01-02 00:00,2026-01-03 00:00,Levente Kovács's birthday,24h 0m,ambiguous,True,
+2026-01-01,2026-01-01 00:00,2026-01-02 00:00,Ancsa Hohol's birthday,24h 0m,non_work,True,
+2026-01-02,2026-01-02 00:00,2026-01-03 00:00,Orsolya Kass's birthday,24h 0m,non_work,True,
+2026-01-02,2026-01-02 00:00,2026-01-03 00:00,Levente Kovács's birthday,24h 0m,non_work,True,
 2026-01-03,2026-01-03 00:00,2026-01-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
-2026-01-03,2026-01-03 00:00,2026-01-04 00:00,Ágnes Forgács's birthday,24h 0m,ambiguous,True,
+2026-01-03,2026-01-03 00:00,2026-01-04 00:00,Ágnes Forgács's birthday,24h 0m,non_work,True,
 2026-01-04,2026-01-04 00:00,2026-01-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
-2026-01-04,2026-01-04 00:00,2026-01-05 00:00,Tamás Bodó's birthday,24h 0m,ambiguous,True,
-2026-01-06,2026-01-06 00:00,2026-01-07 00:00,Kriszta Kéninger-Nagy's birthday,24h 0m,ambiguous,True,
-2026-01-06,2026-01-06 08:00,2026-01-06 08:30,Lemondani a Yousiciant,30m,ambiguous,False,
-2026-01-06,2026-01-06 08:30,2026-01-06 09:30,Masszazs,1h 0m,ambiguous,False,
-2026-01-07,2026-01-07 00:00,2026-01-08 00:00,Gábor Jutasi's birthday,24h 0m,ambiguous,True,
+2026-01-04,2026-01-04 00:00,2026-01-05 00:00,Tamás Bodó's birthday,24h 0m,non_work,True,
+2026-01-06,2026-01-06 00:00,2026-01-07 00:00,Kriszta Kéninger-Nagy's birthday,24h 0m,non_work,True,
+2026-01-06,2026-01-06 08:00,2026-01-06 08:30,Lemondani a Yousiciant,30m,non_work,False,
+2026-01-06,2026-01-06 08:30,2026-01-06 09:30,Masszazs,1h 0m,non_work,False,
+2026-01-07,2026-01-07 00:00,2026-01-08 00:00,Gábor Jutasi's birthday,24h 0m,non_work,True,
 2026-01-08,2026-01-08 12:20,2026-01-08 14:20,Flight to Koppenhága (FR 80),2h 0m,non_work,False,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOqExblBfohxE4OiLmEoPE-VKglcP4d9PA
 "
 2026-01-09,2026-01-09 13:30,2026-01-09 17:00,Coursera lemondása,3h 30m,ambiguous,False,
-2026-01-10,2026-01-10 21:00,2026-01-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-01-12,2026-01-12 00:00,2026-01-13 00:00,András Lakatos's birthday,24h 0m,ambiguous,True,
-2026-01-12,2026-01-12 00:00,2026-01-13 00:00,Gabriella Bozsó's birthday,24h 0m,ambiguous,True,
-2026-01-12,2026-01-12 10:00,2026-01-12 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,ambiguous,False,
+2026-01-10,2026-01-10 21:00,2026-01-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-01-12,2026-01-12 00:00,2026-01-13 00:00,András Lakatos's birthday,24h 0m,non_work,True,
+2026-01-12,2026-01-12 00:00,2026-01-13 00:00,Gabriella Bozsó's birthday,24h 0m,non_work,True,
+2026-01-12,2026-01-12 10:00,2026-01-12 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,work,False,
 2026-01-12,2026-01-12 10:00,2026-01-12 10:30,LINAC coursera előfizetés lemondása,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/4lFUvkS34cI59Qex"
-2026-01-12,2026-01-12 12:00,2026-01-12 13:00,Evopronak,1h 0m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/k2yfx5ZaDEFlxFrX"
+2026-01-12,2026-01-12 12:00,2026-01-12 13:00,Evopronak,1h 0m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/k2yfx5ZaDEFlxFrX"
 2026-01-12,2026-01-12 13:30,2026-01-12 14:00,Anyut hívni,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/FL8XURKQYqZiXSFw"
 2026-01-12,2026-01-12 14:15,2026-01-12 14:45,Jutkáék jönnek április 10-13,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/7x35KhuUeXK7bGqO"
 2026-01-12,2026-01-12 15:15,2026-01-12 15:45,Josenak válasz,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/S1PDPKtTuflbcdAY"
 2026-01-12,2026-01-12 15:45,2026-01-12 16:15,Leslienek időpontok. Link a lakashoz. Foglalasi tablazat. ,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/-WzcMyUcVmOqkXDN"
-2026-01-13,2026-01-13 10:00,2026-01-13 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,ambiguous,False,
+2026-01-13,2026-01-13 10:00,2026-01-13 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,work,False,
 2026-01-13,2026-01-13 14:30,2026-01-13 16:00,Gyógytorna időpont,1h 30m,ambiguous,False,
 2026-01-14,2026-01-14 08:00,2026-01-14 08:30,Mattia valasz. ,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/iioTMMMnhuC-x7mW"
 2026-01-14,2026-01-14 08:30,2026-01-14 09:00,Villanyszamla,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/UVowxl_FYRvDeCOR"
 2026-01-14,2026-01-14 09:00,2026-01-14 10:00,POLIM.HU ügyintézés,1h 0m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/x2tMy4xDGvakPK__"
-2026-01-14,2026-01-14 10:00,2026-01-14 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,ambiguous,False,
+2026-01-14,2026-01-14 10:00,2026-01-14 16:15,CRYO - Alarm Management - Deviation Screen OPIs,6h 15m,work,False,
 2026-01-14,2026-01-14 12:15,2026-01-14 12:45,Jose Excel,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/IMu2sFsL7N2oGc-l"
-2026-01-15,2026-01-15 09:00,2026-01-15 09:45,"Check On Deviation OPIs, Alarm Management, #Cryo",45m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/hRZrxQ-sopIOdZP8"
-2026-01-15,2026-01-15 10:00,2026-01-15 17:00,CRYO - Alarm Management - Deviation Screen OPIs,7h 0m,ambiguous,False,
+2026-01-15,2026-01-15 09:00,2026-01-15 09:45,"Check On Deviation OPIs, Alarm Management, #Cryo",45m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/hRZrxQ-sopIOdZP8"
+2026-01-15,2026-01-15 10:00,2026-01-15 17:00,CRYO - Alarm Management - Deviation Screen OPIs,7h 0m,work,False,
 2026-01-15,2026-01-15 15:00,2026-01-15 15:30,Jose szerződés,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/UikGY7HdF2wTfwXn"
-2026-01-16,2026-01-16 00:00,2026-01-17 00:00,Gábor Szél's birthday,24h 0m,ambiguous,True,
+2026-01-16,2026-01-16 00:00,2026-01-17 00:00,Gábor Szél's birthday,24h 0m,non_work,True,
 2026-01-16,2026-01-16 10:00,2026-01-16 11:00,Incident-ről megnézni a prezit,1h 0m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Sods1UxUKZ8AWxcY"
-2026-01-17,2026-01-17 00:00,2026-01-18 00:00,Adrienn Török's birthday,24h 0m,ambiguous,True,
-2026-01-18,2026-01-18 00:00,2026-01-19 00:00,Kriszta Baunoch's birthday,24h 0m,ambiguous,True,
-2026-01-19,2026-01-19 00:00,2026-01-20 00:00,Dóra Valcsicsák's birthday,24h 0m,ambiguous,True,
-2026-01-19,2026-01-19 09:45,2026-01-19 11:15,CRYO - Deviation OPIs to Phoebus,1h 30m,ambiguous,False,
+2026-01-17,2026-01-17 00:00,2026-01-18 00:00,Adrienn Török's birthday,24h 0m,non_work,True,
+2026-01-18,2026-01-18 00:00,2026-01-19 00:00,Kriszta Baunoch's birthday,24h 0m,non_work,True,
+2026-01-19,2026-01-19 00:00,2026-01-20 00:00,Dóra Valcsicsák's birthday,24h 0m,non_work,True,
+2026-01-19,2026-01-19 09:45,2026-01-19 11:15,CRYO - Deviation OPIs to Phoebus,1h 30m,work,False,
 2026-01-19,2026-01-19 12:00,2026-01-19 14:00,Fault Tracker UX Kickoff Meeting,2h 0m,non_work,False,
 2026-01-19,2026-01-19 15:00,2026-01-19 16:00,Kivenni Somat ovibol jovo hetfore,1h 0m,ambiguous,False,
 2026-01-19,2026-01-19 15:30,2026-01-19 16:00,Fault Tracker Kickoff Meeting,30m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/tY80O3qbUcIc554e"
@@ -50,42 +50,42 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-01-20,2026-01-20 10:00,2026-01-20 12:00,Fault Tracker users diagram,2h 0m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/pTZIrUrJWvyIGm2T"
 2026-01-20,2026-01-20 12:45,2026-01-20 13:15,Agreement to look over,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/KLJfJSkU7R3laBVB"
 2026-01-20,2026-01-20 13:15,2026-01-20 14:45,"CRYO - Deviation OPIs to Phoebus
-",1h 30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/ljmdSg6-RLZpw7DT"
-2026-01-20,2026-01-20 13:15,2026-01-20 14:45,CRYO - Deviation OPIs to Phoebus,1h 30m,ambiguous,False,
+",1h 30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/ljmdSg6-RLZpw7DT"
+2026-01-20,2026-01-20 13:15,2026-01-20 14:45,CRYO - Deviation OPIs to Phoebus,1h 30m,work,False,
 2026-01-21,2026-01-21 09:30,2026-01-21 10:00,Electricity Bill Reporting,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/hvITrK9OZYXFQfVx"
 2026-01-21,2026-01-21 10:15,2026-01-21 10:45,Buy DKJ Stock,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/0YHpzWJ8MRfhO6Hi"
 2026-01-21,2026-01-21 12:00,2026-01-21 12:30,1177 bejelentkezés,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/1w5w8rpbuUCtJSsK"
 2026-01-21,2026-01-21 12:30,2026-01-21 13:00,Reply to Jose about starting the Boardgame,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/aecYhPzuxOiT5_Bs"
-2026-01-21,2026-01-21 13:00,2026-01-21 14:30,CRYO - Deviation OPIs to Phoebus,1h 30m,ambiguous,False,
+2026-01-21,2026-01-21 13:00,2026-01-21 14:30,CRYO - Deviation OPIs to Phoebus,1h 30m,work,False,
 2026-01-21,2026-01-21 13:00,2026-01-21 13:30,Time report,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/qh5C3VcYNkIzeim8"
 2026-01-21,2026-01-21 17:30,2026-01-21 18:00,Aput-anyut hvni,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/AiXhPDhCkYlfMvZt"
-2026-01-22,2026-01-22 11:00,2026-01-22 17:15,CRYO - Water Manifold OPI,6h 15m,ambiguous,False,
+2026-01-22,2026-01-22 11:00,2026-01-22 17:15,CRYO - Water Manifold OPI,6h 15m,work,False,
 2026-01-23,2026-01-23 08:00,2026-01-23 08:30,Fogorvos,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/3TAmX6NXQesYiYQn"
 2026-01-23,2026-01-23 08:20,2026-01-23 08:40,Tandläkartid hos Onlinetandläkaren,20m,ambiguous,False,"<h3><font dir=""auto""><font dir=""auto"">If you encounter any obstacles or questions</font></font></h3><p><font dir=""auto""><font dir=""auto"">Contact </font></font><font dir=""auto""><font dir=""auto"">Onlinetandläkaren </font></font><font dir=""auto""><font dir=""auto"">by phone: </font></font><a><u><font dir=""auto""><font dir=""auto"">0101880000</font></font></u></a><font dir=""auto""><font dir=""auto""> or </font></font><font dir=""auto""><font dir=""auto"">by email: </font></font><a href=""mailto:onlinetandlakaren@aquadental.se""><u><font dir=""auto""><font dir=""auto"">onlinetandlakaren@aquadental.se</font></font></u></a><font dir=""auto""><font dir=""auto""> . Cancellations must be made no later than 24 hours before your visit. Missed visits will be charged according to the clinic's rate.</font></font></p>Tandläkarbesök Online. Träffa tandläkare direkt i din mobil, läsplatta eller dator. Här kan du ställa frågor, få rådgivning och diskutera olika behandlingsalternativ. Samtalet pågår i 20 minuter. Ofta kan vi hjälpa dig inom de närmsta 5 minuterna men ibland kan det vara längre väntetid. Strax innan din tid kommer du att få ett SMS med instruktioner och en länk att använda när det är dags för ditt besök."
 2026-01-23,2026-01-23 10:00,2026-01-23 11:45,Jose call about Boardgame,1h 45m,work,False,
 2026-01-23,2026-01-23 13:00,2026-01-23 13:45,Rehabilitációs intézet mi?,45m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Q7MDSCP5AG_Axm7i"
-2026-01-25,2026-01-25 00:00,2026-01-26 00:00,István Tóth's birthday,24h 0m,ambiguous,True,
-2026-01-25,2026-01-25 00:00,2026-01-26 00:00,Böbi Csapi's birthday,24h 0m,ambiguous,True,
-2026-01-26,2026-01-26 00:00,2026-01-27 00:00,Gabriella Vas's birthday,24h 0m,ambiguous,True,
+2026-01-25,2026-01-25 00:00,2026-01-26 00:00,István Tóth's birthday,24h 0m,non_work,True,
+2026-01-25,2026-01-25 00:00,2026-01-26 00:00,Böbi Csapi's birthday,24h 0m,non_work,True,
+2026-01-26,2026-01-26 00:00,2026-01-27 00:00,Gabriella Vas's birthday,24h 0m,non_work,True,
 2026-01-26,2026-01-26 09:45,2026-01-26 10:15,Send back the Diagram and the Flow,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/FnAPuLOrpk2VE43D"
-2026-01-26,2026-01-26 10:00,2026-01-26 16:00,Deviation Spokes OPIs into Phoebus,6h 0m,ambiguous,False,
+2026-01-26,2026-01-26 10:00,2026-01-26 16:00,Deviation Spokes OPIs into Phoebus,6h 0m,work,False,
 2026-01-26,2026-01-26 12:45,2026-01-26 13:15,Hanganyag a svedtanfolya,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/uppvVLQUpK-giuAX"
 2026-01-26,2026-01-26 16:40,2026-01-26 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-01-27,2026-01-27 07:30,2026-01-27 08:30,Fogászat,1h 0m,ambiguous,False,"<p>Dentist Marko Drazic Falk</p><p>Smile Lund, Bredgatan 5F, tel. 046141092</p>"
-2026-01-27,2026-01-27 10:00,2026-01-27 16:00,Deviation Elliptical OPIs into Phoebus,6h 0m,ambiguous,False,
-2026-01-27,2026-01-27 14:00,2026-01-27 14:30,Deviation OPIs. Figma 2 Phoebus,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/BVsXH6wVZb4X7mv6"
+2026-01-27,2026-01-27 10:00,2026-01-27 16:00,Deviation Elliptical OPIs into Phoebus,6h 0m,work,False,
+2026-01-27,2026-01-27 14:00,2026-01-27 14:30,Deviation OPIs. Figma 2 Phoebus,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/BVsXH6wVZb4X7mv6"
 2026-01-28,2026-01-28 10:00,2026-01-28 13:00,Fault Tracker,3h 0m,ambiguous,False,
 2026-01-28,2026-01-28 13:45,2026-01-28 14:15,Do Code of Conduct,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/W-LIGu61bMInZH51"
 2026-01-28,2026-01-28 15:00,2026-01-28 16:00,Kifli.hu szállítás,59m,non_work,False,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNCBGwtiOpLCeJT7cPoAL1eSQoydEjB1_0
 "
-2026-01-29,2026-01-29 10:00,2026-01-29 11:00,EvoPro Call,1h 0m,work,False,
+2026-01-29,2026-01-29 10:00,2026-01-29 11:00,EvoPro Call,1h 0m,non_work,False,
 2026-01-29,2026-01-29 10:00,2026-01-29 15:00,Water Manifold,5h 0m,ambiguous,False,
 2026-01-29,2026-01-29 11:30,2026-01-29 13:00,Blood Test PSA - Sankt Hans,1h 30m,ambiguous,False,
 2026-01-29,2026-01-29 19:15,2026-01-29 20:00,Jose szamla: Invoice and timeline for phase 1,45m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/-29V52sb9NY6LOVy"
 2026-01-29,2026-01-29 21:00,2026-01-29 21:30,DKJ,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/ow3LMQNTSY14_HHH"
-2026-01-30,2026-01-30 00:00,2026-01-31 00:00,Kristóf Somogyi's birthday,24h 0m,ambiguous,True,
+2026-01-30,2026-01-30 00:00,2026-01-31 00:00,Kristóf Somogyi's birthday,24h 0m,non_work,True,
 2026-01-30,2026-01-30 10:00,2026-01-30 15:00,Water Manifold,5h 0m,ambiguous,False,
 2026-01-30,2026-01-30 18:00,2026-01-30 20:00,Ági moziban,2h 0m,ambiguous,False,
 2026-01-31,2026-01-31 14:30,2026-01-31 15:00,PayPal identity check,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/3AZYjzd-yJ2RPp2w"
@@ -97,21 +97,21 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-02-02,2026-02-02 16:40,2026-02-02 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-02-03,2026-02-03 00:00,2026-02-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-02-03,2026-02-03 08:00,2026-02-03 10:45,Water Manifold,2h 45m,ambiguous,False,
-2026-02-03,2026-02-03 13:00,2026-02-03 15:30,ISrc Interlock OPIs,2h 30m,ambiguous,False,
+2026-02-03,2026-02-03 13:00,2026-02-03 15:30,ISrc Interlock OPIs,2h 30m,work,False,
 2026-02-04,2026-02-04 00:00,2026-02-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-02-04,2026-02-04 08:00,2026-02-04 09:00,Soma fogorvos,1h 0m,ambiguous,False,
 2026-02-04,2026-02-04 13:00,2026-02-04 13:45,Kickoff meeting for iSrc Interlock screens,45m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/U4MZW6seXUiNy1Pg"
-2026-02-04,2026-02-04 13:00,2026-02-04 15:30,ISrc Interlock OPIs,2h 30m,ambiguous,False,
+2026-02-04,2026-02-04 13:00,2026-02-04 15:30,ISrc Interlock OPIs,2h 30m,work,False,
 2026-02-04,2026-02-04 15:30,2026-02-04 16:00,Allasra valasz,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/D_I0mcj0fpGcik7l"
 2026-02-04,2026-02-04 19:30,2026-02-04 22:30,Kino Jazz,3h 0m,work,False,"<font dir=""auto""><font dir=""auto"">Feb 4</font></font><br><strong><font dir=""auto""><font dir=""auto"">Tomasz Dąbrowski (PL) &amp; Landæus Trio</font></font></strong><br><em><font dir=""auto""><font dir=""auto"">The music of Tomasz Stańko</font></font></em><br><font dir=""auto""><font dir=""auto"">Polish trumpeter</font></font><a href=""https://undergroundlund.us11.list-manage.com/track/click?u=e6257a6db6857ee390e16dd75&amp;id=d3615cd095&amp;e=b99d2531ec"" target=""_blank""><u><strong><font dir=""auto""><font dir=""auto""> Tomasz Dąbrowski</font></font></strong></u></a><font dir=""auto""><font dir=""auto""> has been called ""one of Europe's most versatile and curious musicians"" by Downbeat Magazine. Together with the Landæus Trio, he dedicates this concert to the music of legendary compatriot Tomasz Stańko (1942—2018) - one of Europe's greatest jazz musicians in modern times. </font></font>"
 2026-02-05,2026-02-05 09:45,2026-02-05 10:15,Utalas a georgioeknak,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/eU026jNdJj510oC1"
 2026-02-05,2026-02-05 10:15,2026-02-05 10:45,Mile Szamla kibocsatas ertesito,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/bUrqkfAoVbReyEpo"
-2026-02-05,2026-02-05 10:15,2026-02-05 15:00,ISrc Interlock OPIs,4h 45m,ambiguous,False,
-2026-02-05,2026-02-05 10:45,2026-02-05 11:15,MPSS Table view for ISrc Interlock OPIs,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/aImf7BkL1MIfxiX7"
+2026-02-05,2026-02-05 10:15,2026-02-05 15:00,ISrc Interlock OPIs,4h 45m,work,False,
+2026-02-05,2026-02-05 10:45,2026-02-05 11:15,MPSS Table view for ISrc Interlock OPIs,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/aImf7BkL1MIfxiX7"
 2026-02-05,2026-02-05 14:00,2026-02-05 15:00,IonSource Kickoff Meeting,1h 0m,non_work,False,
 2026-02-05,2026-02-05 15:00,2026-02-05 15:30,Archiver Meeting,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/VZgDWU3srtJPdaWR"
 2026-02-05,2026-02-05 15:00,2026-02-05 16:00,Archiver Frontend Kickoff Meeting,1h 0m,non_work,False,
-2026-02-07,2026-02-07 00:00,2026-02-08 00:00,Beáta Rakaczki's birthday,24h 0m,ambiguous,True,
+2026-02-07,2026-02-07 00:00,2026-02-08 00:00,Beáta Rakaczki's birthday,24h 0m,non_work,True,
 2026-02-09,2026-02-09 09:00,2026-02-09 11:00,UX: Fault Tracker,2h 0m,ambiguous,False,
 2026-02-09,2026-02-09 10:30,2026-02-09 11:00,Fault Tracker Mockup,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/wogMQAD9t89PhhGg"
 2026-02-09,2026-02-09 12:30,2026-02-09 13:00,Faktura 13149 bifogas,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/aCTQjZ6YE6EKVLRF"
@@ -123,50 +123,50 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-02-10,2026-02-10 09:45,2026-02-10 10:15,Új bérletet elszámolni,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/bd8zKfAG8LpIXdeM"
 2026-02-10,2026-02-10 10:15,2026-02-10 11:30,Phoebus: Fixing Phoebus Symbol Components in Figma,1h 15m,ambiguous,False,
 2026-02-10,2026-02-10 12:15,2026-02-10 14:00,Phoebus: Fixing Phoebus Symbol Components in Figma,1h 45m,ambiguous,False,
-2026-02-10,2026-02-10 14:00,2026-02-10 16:00,CRYO: Water Manifold,2h 0m,ambiguous,False,
-2026-02-10,2026-02-10 21:00,2026-02-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-02-11,2026-02-11 00:00,2026-02-12 00:00,Zsolt Vajda's birthday,24h 0m,ambiguous,True,
-2026-02-13,2026-02-13 00:00,2026-02-14 00:00,rita keresztesi's birthday,24h 0m,ambiguous,True,
+2026-02-10,2026-02-10 14:00,2026-02-10 16:00,CRYO: Water Manifold,2h 0m,work,False,
+2026-02-10,2026-02-10 21:00,2026-02-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-02-11,2026-02-11 00:00,2026-02-12 00:00,Zsolt Vajda's birthday,24h 0m,non_work,True,
+2026-02-13,2026-02-13 00:00,2026-02-14 00:00,rita keresztesi's birthday,24h 0m,non_work,True,
 2026-02-13,2026-02-13 10:20,2026-02-13 10:50,Kiropraktor,30m,ambiguous,False,
-2026-02-14,2026-02-14 00:00,2026-02-15 00:00,Veronika Csesznák's birthday,24h 0m,ambiguous,True,
+2026-02-14,2026-02-14 00:00,2026-02-15 00:00,Veronika Csesznák's birthday,24h 0m,non_work,True,
 2026-02-14,2026-02-14 09:00,2026-02-14 18:30,II. Belső Gyermek és Érzelemszabályozás Konferencia,9h 30m,ambiguous,False,"Online konferencia. A csatlakozási linket a konferencia előtti napon küldjük emailben, kérlek figyeld az email fiókodat."
 2026-02-15,2026-02-15 00:00,2026-02-21 00:00,MVM - Mérőállás diktálás,144h 0m,ambiguous,False,
 2026-02-16,2026-02-16 00:00,2026-02-21 00:00,Áramóraleolvasás: 49667,120h 0m,ambiguous,True,
 2026-02-16,2026-02-16 10:00,2026-02-16 10:45,Harald CS Studio Live Technical Server connection,45m,ambiguous,False,
-2026-02-16,2026-02-16 11:30,2026-02-16 15:45,CRYO: Water Manifold,4h 15m,ambiguous,False,
-2026-02-17,2026-02-17 00:00,2026-02-18 00:00,Gulyás Erzsébet Vargáné's birthday,24h 0m,ambiguous,True,
-2026-02-17,2026-02-17 10:00,2026-02-17 11:45,CRYO: Water Manifold,1h 45m,ambiguous,False,
-2026-02-17,2026-02-17 12:00,2026-02-17 15:45,Ion: Ion Source OPIs,3h 45m,ambiguous,False,
-2026-02-18,2026-02-18 00:00,2026-02-19 00:00,Ádám Brunner's birthday,24h 0m,ambiguous,True,
+2026-02-16,2026-02-16 11:30,2026-02-16 15:45,CRYO: Water Manifold,4h 15m,work,False,
+2026-02-17,2026-02-17 00:00,2026-02-18 00:00,Gulyás Erzsébet Vargáné's birthday,24h 0m,non_work,True,
+2026-02-17,2026-02-17 10:00,2026-02-17 11:45,CRYO: Water Manifold,1h 45m,work,False,
+2026-02-17,2026-02-17 12:00,2026-02-17 15:45,Ion: Ion Source OPIs,3h 45m,work,False,
+2026-02-18,2026-02-18 00:00,2026-02-19 00:00,Ádám Brunner's birthday,24h 0m,non_work,True,
 2026-02-18,2026-02-18 09:00,2026-02-18 10:00,Admin: Admin,1h 0m,ambiguous,False,
-2026-02-18,2026-02-18 10:00,2026-02-18 13:00,CRYO: Water OPI,3h 0m,ambiguous,False,
-2026-02-18,2026-02-18 13:00,2026-02-18 15:00,ISrc: Ion Source OPI,2h 0m,ambiguous,False,
+2026-02-18,2026-02-18 10:00,2026-02-18 13:00,CRYO: Water OPI,3h 0m,work,False,
+2026-02-18,2026-02-18 13:00,2026-02-18 15:00,ISrc: Ion Source OPI,2h 0m,work,False,
 2026-02-18,2026-02-18 19:30,2026-02-18 21:30,KINO Jazz,2h 0m,ambiguous,False,
 2026-02-19,2026-02-19 08:00,2026-02-19 09:00,Admin: Admin,1h 0m,ambiguous,False,
-2026-02-19,2026-02-19 10:00,2026-02-19 14:00,ISrc: Ion Source OPI,4h 0m,ambiguous,False,
+2026-02-19,2026-02-19 10:00,2026-02-19 14:00,ISrc: Ion Source OPI,4h 0m,work,False,
 2026-02-22,2026-02-22 00:00,2026-02-23 00:00,Csabi szülinap,24h 0m,ambiguous,True,
-2026-02-23,2026-02-23 00:00,2026-02-24 00:00,Szabolcs Dombó's birthday,24h 0m,ambiguous,True,
-2026-02-23,2026-02-23 09:00,2026-02-23 12:15,ISrc OPI research and Mockup,3h 15m,ambiguous,False,
+2026-02-23,2026-02-23 00:00,2026-02-24 00:00,Szabolcs Dombó's birthday,24h 0m,non_work,True,
+2026-02-23,2026-02-23 09:00,2026-02-23 12:15,ISrc OPI research and Mockup,3h 15m,work,False,
 2026-02-23,2026-02-23 10:00,2026-02-23 10:45,Admin: Check if Dirk has Figma Access,45m,ambiguous,False,
 2026-02-23,2026-02-23 16:40,2026-02-23 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-02-24,2026-02-24 00:00,2026-02-25 00:00,Etelka Kovács's birthday,24h 0m,ambiguous,True,
+2026-02-24,2026-02-24 00:00,2026-02-25 00:00,Etelka Kovács's birthday,24h 0m,non_work,True,
 2026-02-24,2026-02-24 00:00,2026-03-02 00:00,"Vizoraallas: 25, 47",144h 0m,ambiguous,True,
-2026-02-24,2026-02-24 09:00,2026-02-24 12:15,ISrc OPI research and Mockup,3h 15m,ambiguous,False,
+2026-02-24,2026-02-24 09:00,2026-02-24 12:15,ISrc OPI research and Mockup,3h 15m,work,False,
 2026-02-24,2026-02-24 09:00,2026-02-24 09:30,Mérőóraállás rögzítés,30m,ambiguous,False,
-2026-02-24,2026-02-24 13:00,2026-02-24 16:15,ISrc OPI research and Mockup,3h 15m,ambiguous,False,
+2026-02-24,2026-02-24 13:00,2026-02-24 16:15,ISrc OPI research and Mockup,3h 15m,work,False,
 2026-02-25,2026-02-25 09:00,2026-02-25 09:30,Mérőóraállás rögzítés,30m,ambiguous,False,
-2026-02-25,2026-02-25 09:30,2026-02-25 12:45,ISrc OPI research and Mockup,3h 15m,ambiguous,False,
+2026-02-25,2026-02-25 09:30,2026-02-25 12:45,ISrc OPI research and Mockup,3h 15m,work,False,
 2026-02-25,2026-02-25 10:00,2026-02-25 10:30,Ask Procurement for a Figma Subscription for Dirk,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/CkheWJ3cZXzM3OCw"
 2026-02-25,2026-02-25 13:00,2026-02-25 15:00,Figma Procurement,2h 0m,ambiguous,False,
 2026-02-26,2026-02-26 09:00,2026-02-26 09:30,Mérőóraállás rögzítés,30m,ambiguous,False,
 2026-02-26,2026-02-26 09:30,2026-02-26 10:15,Admin: Check if Dirk has Figma Access,45m,ambiguous,False,
 2026-02-27,2026-02-27 09:00,2026-02-27 09:30,Mérőóraállás rögzítés,30m,ambiguous,False,
-2026-03-01,2026-03-01 00:00,2026-03-02 00:00,Pál Réti's birthday,24h 0m,ambiguous,True,
-2026-03-01,2026-03-01 00:00,2026-03-02 00:00,Mátyás Réti's birthday,24h 0m,ambiguous,True,
+2026-03-01,2026-03-01 00:00,2026-03-02 00:00,Pál Réti's birthday,24h 0m,non_work,True,
+2026-03-01,2026-03-01 00:00,2026-03-02 00:00,Mátyás Réti's birthday,24h 0m,non_work,True,
 2026-03-02,2026-03-02 16:40,2026-03-02 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-03-03,2026-03-03 00:00,2026-03-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
-2026-03-03,2026-03-03 09:30,2026-03-03 11:00,CRYO: Water OPI - Mockup to .Bob file,1h 30m,ambiguous,False,
-2026-03-03,2026-03-03 13:00,2026-03-03 16:00,CRYO: Water OPI - Mockup to .Bob file,3h 0m,ambiguous,False,
+2026-03-03,2026-03-03 09:30,2026-03-03 11:00,CRYO: Water OPI - Mockup to .Bob file,1h 30m,work,False,
+2026-03-03,2026-03-03 13:00,2026-03-03 16:00,CRYO: Water OPI - Mockup to .Bob file,3h 0m,work,False,
 2026-03-04,2026-03-04 00:00,2026-03-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-03-04,2026-03-04 09:00,2026-03-04 11:00,ESS deep work — IonSource + Water Manifold OPI,2h 0m,work,False,
 2026-03-05,2026-03-05 09:00,2026-03-05 11:00,ESS deep work — IonSource + Water Manifold OPI,2h 0m,work,False,
@@ -178,24 +178,24 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-03-09,2026-03-09 16:40,2026-03-09 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-03-10,2026-03-10 08:30,2026-03-10 10:00,AI and Phoebus,1h 30m,ambiguous,False,
 2026-03-10,2026-03-10 10:00,2026-03-10 16:15,ESS deep work — IonSource + Water Manifold OPI,6h 15m,work,False,
-2026-03-10,2026-03-10 21:00,2026-03-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-03-11,2026-03-11 00:00,2026-03-12 00:00,Sára Zsadon's birthday,24h 0m,ambiguous,True,
+2026-03-10,2026-03-10 21:00,2026-03-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-03-11,2026-03-11 00:00,2026-03-12 00:00,Sára Zsadon's birthday,24h 0m,non_work,True,
 2026-03-11,2026-03-11 09:00,2026-03-11 19:30,Big Science Forum,10h 30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/OpfcuNJccymzyXpx"
 2026-03-11,2026-03-11 09:00,2026-03-11 16:15,ESS deep work — IonSource + Water Manifold OPI,7h 15m,work,False,
 2026-03-12,2026-03-12 09:00,2026-03-12 19:30,Big Science Forum,10h 30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/pwMj_sheHlkbDLs_"
 2026-03-12,2026-03-12 09:00,2026-03-12 11:15,Admin,2h 15m,ambiguous,False,
 2026-03-12,2026-03-12 10:30,2026-03-12 17:45,Admin: AI in ESS,7h 15m,ambiguous,False,
-2026-03-12,2026-03-12 12:00,2026-03-12 12:30,Berletet elkuldeni evopronak,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/MrwGWzSpyz_mjwEc"
+2026-03-12,2026-03-12 12:00,2026-03-12 12:30,Berletet elkuldeni evopronak,30m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/MrwGWzSpyz_mjwEc"
 2026-03-12,2026-03-12 13:00,2026-03-12 13:30,Faktura 13167 bifogas,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/pp31vJIMqv7OkXDf"
 2026-03-13,2026-03-13 13:00,2026-03-13 14:15,Figma Procurement. Requisition for Dirk. ,1h 15m,ambiguous,False,
 2026-03-15,2026-03-15 00:00,2026-03-16 00:00,IPA befizetés 2/1 KATA e.v. 25 000Ft,24h 0m,ambiguous,True,
 2026-03-16,2026-03-16 08:00,2026-03-16 09:45,Weekly Prepare,1h 45m,ambiguous,False,
-2026-03-16,2026-03-16 09:45,2026-03-16 11:30,RF: RF IPMI OPI Figma 2 Phoebus,1h 45m,ambiguous,False,
-2026-03-16,2026-03-16 12:30,2026-03-16 16:15,RF: RF IPMI OPI Figma 2 Phoebus,3h 45m,ambiguous,False,
+2026-03-16,2026-03-16 09:45,2026-03-16 11:30,RF: RF IPMI OPI Figma 2 Phoebus,1h 45m,work,False,
+2026-03-16,2026-03-16 12:30,2026-03-16 16:15,RF: RF IPMI OPI Figma 2 Phoebus,3h 45m,work,False,
 2026-03-16,2026-03-16 16:40,2026-03-16 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-03-17,2026-03-17 00:00,2026-03-18 00:00,Andrea Ridács's birthday,24h 0m,ambiguous,True,
+2026-03-17,2026-03-17 00:00,2026-03-18 00:00,Andrea Ridács's birthday,24h 0m,non_work,True,
 2026-03-17,2026-03-17 14:30,2026-03-17 16:00,Skatteverket-nek leadni az adóbevallást ,1h 30m,ambiguous,False,
-2026-03-18,2026-03-18 00:00,2026-03-19 00:00,Bálint Egyed's birthday,24h 0m,ambiguous,True,
+2026-03-18,2026-03-18 00:00,2026-03-19 00:00,Bálint Egyed's birthday,24h 0m,non_work,True,
 2026-03-19,2026-03-19 09:00,2026-03-19 11:15,"ISrc: Interlock System Overview @Harald, @Marten",2h 15m,ambiguous,False,
 2026-03-19,2026-03-19 10:00,2026-03-19 10:30,Ion Source amandments w Haraldur,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/nW1mwuMQHQQZa3rQ"
 2026-03-19,2026-03-19 13:00,2026-03-19 15:00,"ISrc: Interlock System Overview @Harald, @Marten",2h 0m,ambiguous,False,
@@ -205,16 +205,16 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-03-23,2026-03-23 08:15,2026-03-23 10:30,"ISrc: Interlock System Overview @Harald, @Marten",2h 15m,ambiguous,False,
 2026-03-23,2026-03-23 13:00,2026-03-23 16:00,"ISrc: Interlock System Overview @Harald, @Marten",3h 0m,ambiguous,False,
 2026-03-23,2026-03-23 16:40,2026-03-23 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-03-24,2026-03-24 00:00,2026-03-25 00:00,Tamás Oswald's birthday,24h 0m,ambiguous,True,
-2026-03-24,2026-03-24 08:15,2026-03-24 15:15,Instruments: Beamline OPI Mockup,7h 0m,ambiguous,False,
+2026-03-24,2026-03-24 00:00,2026-03-25 00:00,Tamás Oswald's birthday,24h 0m,non_work,True,
+2026-03-24,2026-03-24 08:15,2026-03-24 15:15,Instruments: Beamline OPI Mockup,7h 0m,work,False,
 2026-03-25,2026-03-25 08:45,2026-03-25 10:15,"Cryo: CDS Valvebox Overview Screen, Review @Nishanthi's modifications ",1h 30m,work,False,
 2026-03-25,2026-03-25 10:15,2026-03-25 11:00,IonSource Amandments,45m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/0zgm_LxAvDc-mvQI"
 2026-03-25,2026-03-25 10:15,2026-03-25 12:00,"ISrc: Interlock System Overview @Harald, @Marten",1h 45m,ambiguous,False,
 2026-03-25,2026-03-25 11:00,2026-03-25 11:30,Orvost hivni!,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/wnxY4gyMHyV0-vvd"
-2026-03-25,2026-03-25 13:00,2026-03-25 20:00,Instruments: Beamline OPI Mockup,7h 0m,ambiguous,False,
-2026-03-26,2026-03-26 08:45,2026-03-26 11:45,Instruments: Beamline OPI Mockup,3h 0m,ambiguous,False,
+2026-03-25,2026-03-25 13:00,2026-03-25 20:00,Instruments: Beamline OPI Mockup,7h 0m,work,False,
+2026-03-26,2026-03-26 08:45,2026-03-26 11:45,Instruments: Beamline OPI Mockup,3h 0m,work,False,
 2026-03-26,2026-03-26 12:15,2026-03-26 16:00,"ISrc: Interlock System Overview @Harald, @Marten",3h 45m,ambiguous,False,
-2026-03-27,2026-03-27 08:00,2026-03-27 11:00,Instruments: Beamline OPI Mockup,3h 0m,ambiguous,False,
+2026-03-27,2026-03-27 08:00,2026-03-27 11:00,Instruments: Beamline OPI Mockup,3h 0m,work,False,
 2026-03-27,2026-03-27 12:30,2026-03-27 16:15,"ISrc: Interlock System Overview @Harald, @Marten",3h 45m,ambiguous,False,
 2026-03-30,2026-03-30 08:00,2026-03-30 11:00,ISrc: TS4 version of the Interlock System,3h 0m,ambiguous,False,
 2026-03-30,2026-03-30 09:00,2026-03-30 09:30,Tax admin,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/6cjar8jt2ReE0Pbw"
@@ -222,53 +222,53 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-03-30,2026-03-30 11:15,2026-03-30 14:00,CRYO: Update of CDS-Valvebox Overview with space adjustments.,2h 45m,work,False,
 2026-03-31,2026-03-31 08:00,2026-03-31 10:45,CRYO: Update of CDS-Valvebox Overview with space adjustments.,2h 45m,work,False,
 2026-03-31,2026-03-31 13:30,2026-03-31 14:00,Update of CDS-Valvebox Overview with space adjustments.,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/4Sp61VZIxa6PMvjE"
-2026-04-01,2026-04-01 00:00,2026-04-02 00:00,Tamás Szigeti's birthday,24h 0m,ambiguous,True,
-2026-04-01,2026-04-01 09:00,2026-04-01 12:00,Instruments Beamline OPI Mockup,3h 0m,ambiguous,False,
-2026-04-01,2026-04-01 11:45,2026-04-01 12:15,Instruments Beamline OPI Mockup,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/QCy7H1yb8s6Bj4Qk"
-2026-04-01,2026-04-01 13:45,2026-04-01 14:45,Instruments: Instrument Status OPI,1h 0m,ambiguous,False,
+2026-04-01,2026-04-01 00:00,2026-04-02 00:00,Tamás Szigeti's birthday,24h 0m,non_work,True,
+2026-04-01,2026-04-01 09:00,2026-04-01 12:00,Instruments Beamline OPI Mockup,3h 0m,work,False,
+2026-04-01,2026-04-01 11:45,2026-04-01 12:15,Instruments Beamline OPI Mockup,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/QCy7H1yb8s6Bj4Qk"
+2026-04-01,2026-04-01 13:45,2026-04-01 14:45,Instruments: Instrument Status OPI,1h 0m,work,False,
 2026-04-02,2026-04-02 08:00,2026-04-02 16:00,Maundy Thursday / Office closed,8h 0m,non_work,False,
 2026-04-03,2026-04-03 00:00,2026-04-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-04-03,2026-04-03 00:00,2026-04-04 00:00,Oviszunet!,24h 0m,ambiguous,True,
-2026-04-03,2026-04-03 00:00,2026-04-04 00:00,Zsolt Hetyei's birthday,24h 0m,ambiguous,True,
+2026-04-03,2026-04-03 00:00,2026-04-04 00:00,Zsolt Hetyei's birthday,24h 0m,non_work,True,
 2026-04-03,2026-04-03 08:00,2026-04-03 16:00,Good Friday / Office closed,8h 0m,non_work,False,
 2026-04-04,2026-04-04 00:00,2026-04-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-04-06,2026-04-06 00:00,2026-04-07 00:00,Oviszunet!,24h 0m,ambiguous,True,
 2026-04-06,2026-04-06 08:00,2026-04-06 16:00,Easter Monday / Office closed,8h 0m,non_work,False,
 2026-04-06,2026-04-06 16:40,2026-04-06 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-04-07,2026-04-07 08:00,2026-04-07 11:00,Admin Tasks,3h 0m,ambiguous,False,
-2026-04-07,2026-04-07 12:15,2026-04-07 16:00,ISrc: IonSource OPI,3h 45m,ambiguous,False,
-2026-04-08,2026-04-08 00:00,2026-04-09 00:00,Éva Kompár's birthday,24h 0m,ambiguous,True,
-2026-04-08,2026-04-08 00:00,2026-04-09 00:00,György Szy's birthday,24h 0m,ambiguous,True,
-2026-04-08,2026-04-08 08:00,2026-04-08 11:00,Admin: All OPIs Maintanance in Figma,3h 0m,ambiguous,False,
+2026-04-07,2026-04-07 12:15,2026-04-07 16:00,ISrc: IonSource OPI,3h 45m,work,False,
+2026-04-08,2026-04-08 00:00,2026-04-09 00:00,Éva Kompár's birthday,24h 0m,non_work,True,
+2026-04-08,2026-04-08 00:00,2026-04-09 00:00,György Szy's birthday,24h 0m,non_work,True,
+2026-04-08,2026-04-08 08:00,2026-04-08 11:00,Admin: All OPIs Maintanance in Figma,3h 0m,work,False,
 2026-04-08,2026-04-08 12:00,2026-04-08 15:00,Cryo: Update of CDS-Valvebox Overview with space adjustments.,3h 0m,work,False,
 2026-04-08,2026-04-08 13:30,2026-04-08 14:00,Re: Cimketervek,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/VsDIX-fj20JOGgJM"
 2026-04-08,2026-04-08 18:00,2026-04-08 20:00,Konyvklub,2h 0m,ambiguous,False,
-2026-04-09,2026-04-09 08:00,2026-04-09 11:45,ISrc: IonSource OPI,3h 45m,ambiguous,False,
-2026-04-10,2026-04-10 00:00,2026-04-11 00:00,Márton Borzák's birthday,24h 0m,ambiguous,True,
+2026-04-09,2026-04-09 08:00,2026-04-09 11:45,ISrc: IonSource OPI,3h 45m,work,False,
+2026-04-10,2026-04-10 00:00,2026-04-11 00:00,Márton Borzák's birthday,24h 0m,non_work,True,
 2026-04-10,2026-04-10 08:00,2026-04-13 11:30,Jutka és Samu látogat,75h 30m,ambiguous,False,
-2026-04-10,2026-04-10 21:00,2026-04-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-04-11,2026-04-11 00:00,2026-04-12 00:00,Gabriella Ságody's birthday,24h 0m,ambiguous,True,
-2026-04-12,2026-04-12 00:00,2026-04-13 00:00,Attila Gábor's birthday,24h 0m,ambiguous,True,
+2026-04-10,2026-04-10 21:00,2026-04-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-04-11,2026-04-11 00:00,2026-04-12 00:00,Gabriella Ságody's birthday,24h 0m,non_work,True,
+2026-04-12,2026-04-12 00:00,2026-04-13 00:00,Attila Gábor's birthday,24h 0m,non_work,True,
 2026-04-13,2026-04-13 08:30,2026-04-13 11:15,Admin,2h 45m,ambiguous,False,
 2026-04-13,2026-04-13 12:00,2026-04-13 15:00,Admin,3h 0m,ambiguous,False,
 2026-04-13,2026-04-13 16:40,2026-04-13 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-04-14,2026-04-14 08:30,2026-04-14 10:15,ISrc: Catch up with IonSource,1h 45m,ambiguous,False,
 2026-04-14,2026-04-14 10:15,2026-04-14 11:30,AI: Learn Cloud and VS Code ,1h 15m,ambiguous,False,
-2026-04-14,2026-04-14 12:00,2026-04-14 14:45,Instruments: Beamlines OPI Mockup,2h 45m,ambiguous,False,
+2026-04-14,2026-04-14 12:00,2026-04-14 14:45,Instruments: Beamlines OPI Mockup,2h 45m,work,False,
 2026-04-14,2026-04-14 14:45,2026-04-14 16:00,Fault Tracker: Fault Details Page,1h 15m,ambiguous,False,
-2026-04-15,2026-04-15 00:00,2026-04-16 00:00,Ágnes Süle's birthday,24h 0m,ambiguous,True,
+2026-04-15,2026-04-15 00:00,2026-04-16 00:00,Ágnes Süle's birthday,24h 0m,non_work,True,
 2026-04-15,2026-04-15 08:00,2026-04-15 08:30,Talk with Luciano about the Synaptic Symbols for the Instrument Beamlines.,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/T8Rb6ixiL9osX-lC"
-2026-04-15,2026-04-15 08:30,2026-04-15 09:00,Instruments: Talk with Luciano about the Synaptic Symbols for the Instrument Beamlines.,30m,ambiguous,False,
+2026-04-15,2026-04-15 08:30,2026-04-15 09:00,Instruments: Talk with Luciano about the Synaptic Symbols for the Instrument Beamlines.,30m,work,False,
 2026-04-15,2026-04-15 09:00,2026-04-15 11:00,Fault Tracker: Fault Details Page,2h 0m,ambiguous,False,
 2026-04-15,2026-04-15 10:30,2026-04-15 11:00,Kave vasarlas amazon ,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/lyDbk1SfHf1grvyz"
-2026-04-15,2026-04-15 12:45,2026-04-15 16:00,Instruments: Create Mockup for Beamlines,3h 15m,ambiguous,False,
-2026-04-16,2026-04-16 00:00,2026-04-17 00:00,Zoltán Mészáros's birthday,24h 0m,ambiguous,True,
+2026-04-15,2026-04-15 12:45,2026-04-15 16:00,Instruments: Create Mockup for Beamlines,3h 15m,work,False,
+2026-04-16,2026-04-16 00:00,2026-04-17 00:00,Zoltán Mészáros's birthday,24h 0m,non_work,True,
 2026-04-16,2026-04-16 08:30,2026-04-16 10:30,MPS: MPS SIS Screens Updates w Daniele Cosco,2h 0m,work,False,
-2026-04-16,2026-04-16 10:30,2026-04-16 11:15,ISrc: Talk with Timo about IonSource OPIs. Show Before-After,45m,ambiguous,False,
+2026-04-16,2026-04-16 10:30,2026-04-16 11:15,ISrc: Talk with Timo about IonSource OPIs. Show Before-After,45m,work,False,
 2026-04-16,2026-04-16 12:00,2026-04-16 14:15,Fault Tracker: Fault Details Page,2h 15m,ambiguous,False,
-2026-04-20,2026-04-20 00:00,2026-04-21 00:00,Anikó Dobosy's birthday,24h 0m,ambiguous,True,
-2026-04-20,2026-04-20 09:00,2026-04-20 11:00,Instruments: Create Mockup for Beamlines,2h 0m,ambiguous,False,
-2026-04-20,2026-04-20 13:00,2026-04-20 16:00,Instruments: Create Mockup for Beamlines,3h 0m,ambiguous,False,
+2026-04-20,2026-04-20 00:00,2026-04-21 00:00,Anikó Dobosy's birthday,24h 0m,non_work,True,
+2026-04-20,2026-04-20 09:00,2026-04-20 11:00,Instruments: Create Mockup for Beamlines,2h 0m,work,False,
+2026-04-20,2026-04-20 13:00,2026-04-20 16:00,Instruments: Create Mockup for Beamlines,3h 0m,work,False,
 2026-04-20,2026-04-20 16:40,2026-04-20 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-04-21,2026-04-21 09:00,2026-04-21 11:00,Instruments: Visiting the Hutch in the Instruments Hall,2h 0m,work,False,"Meeting Notes:
 Nicos screens in Loki Hutch by default are small. So text is sometimes not visible.
@@ -277,32 +277,32 @@ You are able to access the OPIs through CLO.
 Resolution can change on the vr machine all the time, so you have to set it up for yourself a lot of times.
 
 Next Step. Hannah Burrall will talk with colleagues about my mockups, come back with infos and I will do a new version for next wednesday. (Apr 29)"
-2026-04-21,2026-04-21 13:00,2026-04-21 16:00,Instruments: Collecting data for next Mockup version for Beamline Instruments OPI,3h 0m,ambiguous,False,
-2026-04-22,2026-04-22 00:00,2026-04-23 00:00,melinda horváth's birthday,24h 0m,ambiguous,True,
+2026-04-21,2026-04-21 13:00,2026-04-21 16:00,Instruments: Collecting data for next Mockup version for Beamline Instruments OPI,3h 0m,work,False,
+2026-04-22,2026-04-22 00:00,2026-04-23 00:00,melinda horváth's birthday,24h 0m,non_work,True,
 2026-04-22,2026-04-22 09:00,2026-04-22 11:00,Fault Tracker: Fault Details Page,2h 0m,ambiguous,False,
 2026-04-22,2026-04-22 13:00,2026-04-22 15:00,MPS: MPS SIS Screens Updates w Daniele Cosco,2h 0m,work,False,
-2026-04-23,2026-04-23 00:00,2026-04-24 00:00,Laura Szundy's birthday,24h 0m,ambiguous,True,
+2026-04-23,2026-04-23 00:00,2026-04-24 00:00,Laura Szundy's birthday,24h 0m,non_work,True,
 2026-04-23,2026-04-23 09:00,2026-04-23 11:00,MPS: MPS SIS Screens Updates w Daniele Cosco,2h 0m,work,False,
-2026-04-23,2026-04-23 13:00,2026-04-23 16:00,Instruments: Collecting data for next Mockup version for Beamline Instruments OPI,3h 0m,ambiguous,False,
-2026-04-24,2026-04-24 00:00,2026-04-25 00:00,marton lakatos's birthday,24h 0m,ambiguous,True,
-2026-04-27,2026-04-27 00:00,2026-04-28 00:00,Árisz Szertaridisz's birthday,24h 0m,ambiguous,True,
-2026-04-27,2026-04-27 08:00,2026-04-27 08:30,Check out Design.md,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/UzdaM6s9GmcUczvi"
+2026-04-23,2026-04-23 13:00,2026-04-23 16:00,Instruments: Collecting data for next Mockup version for Beamline Instruments OPI,3h 0m,work,False,
+2026-04-24,2026-04-24 00:00,2026-04-25 00:00,marton lakatos's birthday,24h 0m,non_work,True,
+2026-04-27,2026-04-27 00:00,2026-04-28 00:00,Árisz Szertaridisz's birthday,24h 0m,non_work,True,
+2026-04-27,2026-04-27 08:00,2026-04-27 08:30,Check out Design.md,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/UzdaM6s9GmcUczvi"
 2026-04-27,2026-04-27 08:30,2026-04-27 09:00,Dominiknak segiteni,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/S4QrKVnglH0bReSX"
-2026-04-27,2026-04-27 09:00,2026-04-27 11:00,CRYO: Fit the Pressure Protection Group into the OPI,2h 0m,ambiguous,False,"<a href=""https://jira.ess.eu/browse/ICSHWI-22779"">https://jira.ess.eu/browse/ICSHWI-22779</a>"
+2026-04-27,2026-04-27 09:00,2026-04-27 11:00,CRYO: Fit the Pressure Protection Group into the OPI,2h 0m,work,False,"<a href=""https://jira.ess.eu/browse/ICSHWI-22779"">https://jira.ess.eu/browse/ICSHWI-22779</a>"
 2026-04-27,2026-04-27 11:00,2026-04-27 11:30,Orvos bejelentkezes,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/1PYyKpw3P_eU24ld"
 2026-04-27,2026-04-27 11:00,2026-04-27 11:30,Hetfon orvosnak ganglion,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/zZpZAvWDKY9iRP4P"
 2026-04-27,2026-04-27 11:30,2026-04-27 12:00,Erszukulet megelozese mivel?,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Jg3PRWhojBJtWr7o"
-2026-04-27,2026-04-27 12:30,2026-04-27 13:00,Számlaértesítő - Schell Gergely,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Gnt1QUMM55QQRsqv"
+2026-04-27,2026-04-27 12:30,2026-04-27 13:00,Számlaértesítő - Schell Gergely,30m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Gnt1QUMM55QQRsqv"
 2026-04-27,2026-04-27 13:00,2026-04-27 16:00,MPS: MPS SIS Screens Updates w Daniele Cosco,3h 0m,work,False,
 2026-04-27,2026-04-27 15:30,2026-04-27 16:00,- MPS SIS Update,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/tih0pBh9k0YjQGAg"
 2026-04-27,2026-04-27 16:00,2026-04-27 16:30,slouching detector for macbook,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/PxBgjY4DzdpVE17M"
 2026-04-27,2026-04-27 16:40,2026-04-27 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-04-28,2026-04-28 00:00,2026-04-29 00:00,Panna Csizmár's birthday,24h 0m,ambiguous,True,
+2026-04-28,2026-04-28 00:00,2026-04-29 00:00,Panna Csizmár's birthday,24h 0m,non_work,True,
 2026-04-28,2026-04-28 08:45,2026-04-28 09:30,Admin,45m,ambiguous,False,
-2026-04-28,2026-04-28 09:30,2026-04-28 11:30,Instruments: Create Mockup for Beamlines,2h 0m,ambiguous,False,
+2026-04-28,2026-04-28 09:30,2026-04-28 11:30,Instruments: Create Mockup for Beamlines,2h 0m,work,False,
 2026-04-28,2026-04-28 10:00,2026-04-28 10:30,Gerdahallenben massAslzs,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/n-zo5qJIcGzKLu6X"
 2026-04-28,2026-04-28 13:00,2026-04-28 16:00,MPS: MPS SIS Screens Updates w Daniele Cosco,3h 0m,work,False,
-2026-04-28,2026-04-28 15:00,2026-04-28 15:30,Invitation to Participate in a User Study Interview,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Ur2kUjdNo39m_fIS"
+2026-04-28,2026-04-28 15:00,2026-04-28 15:30,Invitation to Participate in a User Study Interview,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Ur2kUjdNo39m_fIS"
 2026-04-28,2026-04-28 15:00,2026-04-28 16:00,Interview Ulf/Balázs - Si - Job portal,1h 0m,work,False,"Thank you for participating in this user study. These are the areas we will cover in the interview, just to give you a better context.
 
 
@@ -343,56 +343,56 @@ ________________________________________________________________________________
 2026-04-30,2026-04-30 18:00,2026-04-30 21:00,Valborg at st Hans backar,3h 0m,ambiguous,False,
 2026-05-01,2026-05-01 00:00,2026-05-02 00:00,Oviszunet!,24h 0m,ambiguous,True,
 2026-05-03,2026-05-03 00:00,2026-05-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
-2026-05-03,2026-05-03 00:00,2026-05-04 00:00,Norbert Kertesi's birthday,24h 0m,ambiguous,True,
+2026-05-03,2026-05-03 00:00,2026-05-04 00:00,Norbert Kertesi's birthday,24h 0m,non_work,True,
 2026-05-04,2026-05-04 00:00,2026-05-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-05-04,2026-05-04 08:15,2026-05-04 15:00,Admin,6h 45m,ambiguous,False,
 2026-05-04,2026-05-04 16:40,2026-05-04 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-05-05,2026-05-05 00:00,2026-05-06 00:00,Gergely Puskás's birthday,24h 0m,ambiguous,True,
+2026-05-05,2026-05-05 00:00,2026-05-06 00:00,Gergely Puskás's birthday,24h 0m,non_work,True,
 2026-05-05,2026-05-05 08:30,2026-05-05 09:45,Training: Introduction to the ESS Management System,1h 15m,ambiguous,False,
 2026-05-05,2026-05-05 09:00,2026-05-05 09:30,Faktura 13212 bifogas,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/HG9ILtILdGzEpo92"
 2026-05-05,2026-05-05 09:30,2026-05-05 10:00,Ultrahang beutalo kérdés,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/NepbkMjC2VyPVp_2"
 2026-05-05,2026-05-05 10:00,2026-05-05 10:30,Training: Introduction to the ESS Management System,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/Bcf3GNalqSyCkBGV"
-2026-05-05,2026-05-05 13:00,2026-05-05 15:00,Instruments: Create Mockup for Beamlines,2h 0m,ambiguous,False,
+2026-05-05,2026-05-05 13:00,2026-05-05 15:00,Instruments: Create Mockup for Beamlines,2h 0m,work,False,
 2026-05-06,2026-05-06 00:00,2026-05-07 00:00,Eszti szülinap,24h 0m,ambiguous,True,
-2026-05-06,2026-05-06 09:30,2026-05-06 13:00,CRYO: Fit the Pressure Protection Group into the OPI,3h 30m,ambiguous,False,"<a href=""https://www.google.com/url?q=https://jira.ess.eu/browse/ICSHWI-22779&amp;sa=D&amp;source=calendar&amp;ust=1778166070142080&amp;usg=AOvVaw3h_cXPnZZGBIjznxOVvhYF"" target=""_blank"">https://jira.ess.eu/browse/ICSHWI-22779</a>"
+2026-05-06,2026-05-06 09:30,2026-05-06 13:00,CRYO: Fit the Pressure Protection Group into the OPI,3h 30m,work,False,"<a href=""https://www.google.com/url?q=https://jira.ess.eu/browse/ICSHWI-22779&amp;sa=D&amp;source=calendar&amp;ust=1778166070142080&amp;usg=AOvVaw3h_cXPnZZGBIjznxOVvhYF"" target=""_blank"">https://jira.ess.eu/browse/ICSHWI-22779</a>"
 2026-05-06,2026-05-06 14:00,2026-05-06 16:00,MPS: MPS SIS Screens Updates w Daniele Cosco,2h 0m,work,False,
-2026-05-07,2026-05-07 00:00,2026-05-08 00:00,csaba kerekes's birthday,24h 0m,ambiguous,True,
-2026-05-07,2026-05-07 00:00,2026-05-08 00:00,Róbert Ónodi's birthday,24h 0m,ambiguous,True,
-2026-05-07,2026-05-07 00:00,2026-05-08 00:00,Kovács Sebô Ferenczfy's birthday,24h 0m,ambiguous,True,
+2026-05-07,2026-05-07 00:00,2026-05-08 00:00,csaba kerekes's birthday,24h 0m,non_work,True,
+2026-05-07,2026-05-07 00:00,2026-05-08 00:00,Róbert Ónodi's birthday,24h 0m,non_work,True,
+2026-05-07,2026-05-07 00:00,2026-05-08 00:00,Kovács Sebô Ferenczfy's birthday,24h 0m,non_work,True,
 2026-05-07,2026-05-07 08:30,2026-05-07 10:30,MPS: MPS SIS Screens Updates w Daniele Cosco,2h 0m,work,False,
-2026-05-07,2026-05-07 13:00,2026-05-07 16:00,Instruments: Create Mockup for Beamlines,3h 0m,ambiguous,False,
+2026-05-07,2026-05-07 13:00,2026-05-07 16:00,Instruments: Create Mockup for Beamlines,3h 0m,work,False,
 2026-05-08,2026-05-08 00:00,2026-05-09 00:00,Pisti szülinap,24h 0m,ambiguous,True,
 2026-05-09,2026-05-09 00:00,2026-05-11 00:00,Ági Budapest,48h 0m,ambiguous,True,
-2026-05-10,2026-05-10 00:00,2026-05-11 00:00,Orsolya Pintér's birthday,24h 0m,ambiguous,True,
-2026-05-10,2026-05-10 21:00,2026-05-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-05-11,2026-05-11 00:00,2026-05-12 00:00,György Mező's birthday,24h 0m,ambiguous,True,
+2026-05-10,2026-05-10 00:00,2026-05-11 00:00,Orsolya Pintér's birthday,24h 0m,non_work,True,
+2026-05-10,2026-05-10 21:00,2026-05-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-05-11,2026-05-11 00:00,2026-05-12 00:00,György Mező's birthday,24h 0m,non_work,True,
 2026-05-11,2026-05-11 16:40,2026-05-11 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
 2026-05-12,2026-05-12 08:30,2026-05-12 10:00,AI Learning,1h 30m,ambiguous,False,
 2026-05-12,2026-05-12 10:00,2026-05-12 11:15,MPS: MPS SIS Screens Updates w Daniele Cosco,1h 15m,work,False,
-2026-05-12,2026-05-12 11:30,2026-05-12 12:00,Instruments: Create Mockup for Beamlines,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/H_WOmMbjcDfk4GS2"
-2026-05-12,2026-05-12 12:00,2026-05-12 15:00,Instruments: Create Mockup for Beamlines,3h 0m,ambiguous,False,
+2026-05-12,2026-05-12 11:30,2026-05-12 12:00,Instruments: Create Mockup for Beamlines,30m,work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/H_WOmMbjcDfk4GS2"
+2026-05-12,2026-05-12 12:00,2026-05-12 15:00,Instruments: Create Mockup for Beamlines,3h 0m,work,False,
 2026-05-13,2026-05-13 00:00,2026-05-21 00:00,Ági Portugália,192h 0m,ambiguous,True,
-2026-05-13,2026-05-13 00:00,2026-05-14 00:00,Ági Cseke's birthday,24h 0m,ambiguous,True,
+2026-05-13,2026-05-13 00:00,2026-05-14 00:00,Ági Cseke's birthday,24h 0m,non_work,True,
 2026-05-14,2026-05-14 00:00,2026-05-15 00:00,Oviszunet!,24h 0m,ambiguous,True,
-2026-05-14,2026-05-14 00:00,2026-05-15 00:00,Éva Hajdú's birthday,24h 0m,ambiguous,True,
-2026-05-14,2026-05-14 08:00,2026-05-14 17:15,evopro csapatépítés,9h 15m,ambiguous,False,
+2026-05-14,2026-05-14 00:00,2026-05-15 00:00,Éva Hajdú's birthday,24h 0m,non_work,True,
+2026-05-14,2026-05-14 08:00,2026-05-14 17:15,evopro csapatépítés,9h 15m,non_work,False,
 2026-05-15,2026-05-15 08:00,2026-05-15 16:15,Office Closed,8h 15m,non_work,False,
-2026-05-15,2026-05-15 08:00,2026-05-15 17:15,evopro csapatépítés,9h 15m,ambiguous,False,
+2026-05-15,2026-05-15 08:00,2026-05-15 17:15,evopro csapatépítés,9h 15m,non_work,False,
 2026-05-15,2026-05-15 08:00,2026-05-15 10:00,38. *X Experience Breakfast (ONLINE),2h 0m,non_work,False,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP5NrJk_6DkT4v_VcS_Zeev0KWcgvh40hU
 "
-2026-05-15,2026-05-15 09:30,2026-05-15 10:00,Erkelyen levo foglalatot megnezni. ,30m,ambiguous,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/nsM-XGEzfLCI-aRW"
-2026-05-18,2026-05-18 00:00,2026-05-19 00:00,Balázs Tanitó's birthday,24h 0m,ambiguous,True,
-2026-05-18,2026-05-18 00:00,2026-05-19 00:00,András Hajdu's birthday,24h 0m,ambiguous,True,
+2026-05-15,2026-05-15 09:30,2026-05-15 10:00,Erkelyen levo foglalatot megnezni. ,30m,non_work,False,"Changes made to the title, description or attachments will not be saved. To make edits, please go to: https://tasks.google.com/task/nsM-XGEzfLCI-aRW"
+2026-05-18,2026-05-18 00:00,2026-05-19 00:00,Balázs Tanitó's birthday,24h 0m,non_work,True,
+2026-05-18,2026-05-18 00:00,2026-05-19 00:00,András Hajdu's birthday,24h 0m,non_work,True,
 2026-05-18,2026-05-18 16:40,2026-05-18 17:10,Soma pancsol 16.40-17.10,30m,ambiguous,False,
-2026-05-20,2026-05-20 00:00,2026-05-21 00:00,Imre Végvári's birthday,24h 0m,ambiguous,True,
-2026-05-22,2026-05-22 00:00,2026-05-23 00:00,Levente Virág's birthday,24h 0m,ambiguous,True,
+2026-05-20,2026-05-20 00:00,2026-05-21 00:00,Imre Végvári's birthday,24h 0m,non_work,True,
+2026-05-22,2026-05-22 00:00,2026-05-23 00:00,Levente Virág's birthday,24h 0m,non_work,True,
 2026-05-26,2026-05-26 00:00,2026-05-27 00:00,Lili szülinap,24h 0m,ambiguous,True,
-2026-05-26,2026-05-26 00:00,2026-05-27 00:00,Boglárka Jaskó's birthday,24h 0m,ambiguous,True,
-2026-05-26,2026-05-26 00:00,2026-05-27 00:00,Éva Nagy's birthday,24h 0m,ambiguous,True,
+2026-05-26,2026-05-26 00:00,2026-05-27 00:00,Boglárka Jaskó's birthday,24h 0m,non_work,True,
+2026-05-26,2026-05-26 00:00,2026-05-27 00:00,Éva Nagy's birthday,24h 0m,non_work,True,
 2026-05-26,2026-05-26 08:00,2026-05-26 16:00,SFI prov,8h 0m,ambiguous,False,
-2026-05-28,2026-05-28 00:00,2026-05-29 00:00,Zsolt Dréher's birthday,24h 0m,ambiguous,True,
+2026-05-28,2026-05-28 00:00,2026-05-29 00:00,Zsolt Dréher's birthday,24h 0m,non_work,True,
 2026-06-01,2026-06-01 15:00,2026-06-01 23:00,Massive Attack - ?,8h 0m,ambiguous,False,
 2026-06-01,2026-06-01 18:00,2026-06-01 20:00,Konyvklub,2h 0m,ambiguous,False,
 2026-06-03,2026-06-03 00:00,2026-06-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
@@ -400,135 +400,135 @@ This event was created from an email that you received in Gmail. https://mail.go
 2026-06-04,2026-06-04 00:00,2026-07-05 00:00,Csendkirály—Zsuzsa kiállítása,744h 0m,ambiguous,True,
 2026-06-04,2026-06-04 00:00,2026-06-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-06-05,2026-06-05 00:00,2026-06-11 00:00,Pestre mennék egyedül,144h 0m,ambiguous,True,
-2026-06-05,2026-06-05 00:00,2026-06-06 00:00,Szilvia Kassay's birthday,24h 0m,ambiguous,True,
+2026-06-05,2026-06-05 00:00,2026-06-06 00:00,Szilvia Kassay's birthday,24h 0m,non_work,True,
 2026-06-05,2026-06-05 08:00,2026-06-05 16:00,Office Closed,8h 0m,non_work,False,
 2026-06-05,2026-06-05 14:40,2026-06-05 16:35,Flight to Budapest (W6 2252),1h 55m,non_work,False,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNfdrzN8vSP108uNb3WZlB1yXfTcr39Tvc
 "
-2026-06-08,2026-06-08 00:00,2026-06-09 00:00,Dávid Ráday's birthday,24h 0m,ambiguous,True,
-2026-06-10,2026-06-10 21:00,2026-06-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
+2026-06-08,2026-06-08 00:00,2026-06-09 00:00,Dávid Ráday's birthday,24h 0m,non_work,True,
+2026-06-10,2026-06-10 21:00,2026-06-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
 2026-06-11,2026-06-11 12:10,2026-06-11 14:10,Flight to Copenhagen (W6 2251),2h 0m,non_work,False,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNfdrzN8vSP108uNb3WZlB1yXfTcr39Tvc
 "
-2026-06-12,2026-06-12 00:00,2026-06-13 00:00,Rita Farkas's birthday,24h 0m,ambiguous,True,
-2026-06-18,2026-06-18 00:00,2026-06-19 00:00,Molnár Izabella's birthday,24h 0m,ambiguous,True,
-2026-06-18,2026-06-18 00:00,2026-06-19 00:00,Levente Vöröss's birthday,24h 0m,ambiguous,True,
-2026-06-20,2026-06-20 00:00,2026-06-21 00:00,András Oravecz's birthday,24h 0m,ambiguous,True,
-2026-06-20,2026-06-20 00:00,2026-06-21 00:00,Júlia Keserû's birthday,24h 0m,ambiguous,True,
-2026-06-21,2026-06-21 00:00,2026-06-22 00:00,Norbert Mocsnik's birthday,24h 0m,ambiguous,True,
+2026-06-12,2026-06-12 00:00,2026-06-13 00:00,Rita Farkas's birthday,24h 0m,non_work,True,
+2026-06-18,2026-06-18 00:00,2026-06-19 00:00,Molnár Izabella's birthday,24h 0m,non_work,True,
+2026-06-18,2026-06-18 00:00,2026-06-19 00:00,Levente Vöröss's birthday,24h 0m,non_work,True,
+2026-06-20,2026-06-20 00:00,2026-06-21 00:00,András Oravecz's birthday,24h 0m,non_work,True,
+2026-06-20,2026-06-20 00:00,2026-06-21 00:00,Júlia Keserû's birthday,24h 0m,non_work,True,
+2026-06-21,2026-06-21 00:00,2026-06-22 00:00,Norbert Mocsnik's birthday,24h 0m,non_work,True,
 2026-06-23,2026-06-23 10:00,2026-06-23 16:00,Figma Config Conference,6h 0m,ambiguous,False,
 2026-06-24,2026-06-24 10:00,2026-06-24 16:00,Figma Config Conference,6h 0m,ambiguous,False,
-2026-06-25,2026-06-25 00:00,2026-06-26 00:00,Dorottya Juhász's birthday,24h 0m,ambiguous,True,
-2026-06-27,2026-06-27 00:00,2026-06-28 00:00,Csaba Czibula's birthday,24h 0m,ambiguous,True,
-2026-06-29,2026-06-29 00:00,2026-06-30 00:00,Gabriella Uhrner's birthday,24h 0m,ambiguous,True,
+2026-06-25,2026-06-25 00:00,2026-06-26 00:00,Dorottya Juhász's birthday,24h 0m,non_work,True,
+2026-06-27,2026-06-27 00:00,2026-06-28 00:00,Csaba Czibula's birthday,24h 0m,non_work,True,
+2026-06-29,2026-06-29 00:00,2026-06-30 00:00,Gabriella Uhrner's birthday,24h 0m,non_work,True,
 2026-07-03,2026-07-03 00:00,2026-07-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-07-03,2026-07-03 12:00,2026-07-03 12:30,Soma névnap,30m,ambiguous,False,
 2026-07-04,2026-07-04 00:00,2026-07-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-07-06,2026-07-06 12:30,2026-07-06 13:45,Csaszi névnap,1h 15m,ambiguous,False,
-2026-07-10,2026-07-10 21:00,2026-07-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-07-12,2026-07-12 00:00,2026-07-13 00:00,Tímea Hádinger's birthday,24h 0m,ambiguous,True,
+2026-07-10,2026-07-10 21:00,2026-07-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-07-12,2026-07-12 00:00,2026-07-13 00:00,Tímea Hádinger's birthday,24h 0m,non_work,True,
 2026-07-15,2026-07-15 00:00,2026-07-16 00:00,Ági szülinap,24h 0m,ambiguous,True,
-2026-07-16,2026-07-16 00:00,2026-07-17 00:00,Hanna Mike's birthday,24h 0m,ambiguous,True,
-2026-07-17,2026-07-17 00:00,2026-07-18 00:00,László Dávid's birthday,24h 0m,ambiguous,True,
-2026-07-19,2026-07-19 00:00,2026-07-20 00:00,judit löbl's birthday,24h 0m,ambiguous,True,
-2026-07-21,2026-07-21 00:00,2026-07-22 00:00,Pál Posta's birthday,24h 0m,ambiguous,True,
-2026-07-22,2026-07-22 00:00,2026-07-23 00:00,Imre Szilágyi's birthday,24h 0m,ambiguous,True,
-2026-07-23,2026-07-23 00:00,2026-07-24 00:00,Zoltán Kiss's birthday,24h 0m,ambiguous,True,
-2026-07-24,2026-07-24 00:00,2026-07-25 00:00,Krisztina Erdôs's birthday,24h 0m,ambiguous,True,
-2026-07-25,2026-07-25 00:00,2026-07-26 00:00,Kovács Balázs's birthday,24h 0m,ambiguous,True,
-2026-07-30,2026-07-30 00:00,2026-07-31 00:00,Dániel Hérincs's birthday,24h 0m,ambiguous,True,
+2026-07-16,2026-07-16 00:00,2026-07-17 00:00,Hanna Mike's birthday,24h 0m,non_work,True,
+2026-07-17,2026-07-17 00:00,2026-07-18 00:00,László Dávid's birthday,24h 0m,non_work,True,
+2026-07-19,2026-07-19 00:00,2026-07-20 00:00,judit löbl's birthday,24h 0m,non_work,True,
+2026-07-21,2026-07-21 00:00,2026-07-22 00:00,Pál Posta's birthday,24h 0m,non_work,True,
+2026-07-22,2026-07-22 00:00,2026-07-23 00:00,Imre Szilágyi's birthday,24h 0m,non_work,True,
+2026-07-23,2026-07-23 00:00,2026-07-24 00:00,Zoltán Kiss's birthday,24h 0m,non_work,True,
+2026-07-24,2026-07-24 00:00,2026-07-25 00:00,Krisztina Erdôs's birthday,24h 0m,non_work,True,
+2026-07-25,2026-07-25 00:00,2026-07-26 00:00,Kovács Balázs's birthday,24h 0m,non_work,True,
+2026-07-30,2026-07-30 00:00,2026-07-31 00:00,Dániel Hérincs's birthday,24h 0m,non_work,True,
 2026-07-30,2026-07-30 13:00,2026-07-30 14:45,Judit névnap,1h 45m,ambiguous,False,
-2026-08-01,2026-08-01 00:00,2026-08-02 00:00,László Dobák-Kiss's birthday,24h 0m,ambiguous,True,
+2026-08-01,2026-08-01 00:00,2026-08-02 00:00,László Dobák-Kiss's birthday,24h 0m,non_work,True,
 2026-08-03,2026-08-03 00:00,2026-08-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
-2026-08-03,2026-08-03 00:00,2026-08-04 00:00,Zoltán Balázs Fejes's birthday,24h 0m,ambiguous,True,
+2026-08-03,2026-08-03 00:00,2026-08-04 00:00,Zoltán Balázs Fejes's birthday,24h 0m,non_work,True,
 2026-08-04,2026-08-04 00:00,2026-08-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
-2026-08-04,2026-08-04 00:00,2026-08-05 00:00,Márta Szabó's birthday,24h 0m,ambiguous,True,
-2026-08-05,2026-08-05 00:00,2026-08-06 00:00,Ivan Gosic's birthday,24h 0m,ambiguous,True,
-2026-08-06,2026-08-06 00:00,2026-08-07 00:00,sándor szôke's birthday,24h 0m,ambiguous,True,
-2026-08-08,2026-08-08 00:00,2026-08-09 00:00,Judit Vadász's birthday,24h 0m,ambiguous,True,
+2026-08-04,2026-08-04 00:00,2026-08-05 00:00,Márta Szabó's birthday,24h 0m,non_work,True,
+2026-08-05,2026-08-05 00:00,2026-08-06 00:00,Ivan Gosic's birthday,24h 0m,non_work,True,
+2026-08-06,2026-08-06 00:00,2026-08-07 00:00,sándor szôke's birthday,24h 0m,non_work,True,
+2026-08-08,2026-08-08 00:00,2026-08-09 00:00,Judit Vadász's birthday,24h 0m,non_work,True,
 2026-08-10,2026-08-10 00:00,2026-08-11 00:00,oviszünet!,24h 0m,ambiguous,True,
-2026-08-10,2026-08-10 00:00,2026-08-11 00:00,Anna Farkas's birthday,24h 0m,ambiguous,True,
-2026-08-10,2026-08-10 21:00,2026-08-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-08-11,2026-08-11 00:00,2026-08-12 00:00,Zsolt Csikmák's birthday,24h 0m,ambiguous,True,
-2026-08-12,2026-08-12 00:00,2026-08-13 00:00,Dimitry Ljasuk's birthday,24h 0m,ambiguous,True,
+2026-08-10,2026-08-10 00:00,2026-08-11 00:00,Anna Farkas's birthday,24h 0m,non_work,True,
+2026-08-10,2026-08-10 21:00,2026-08-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-08-11,2026-08-11 00:00,2026-08-12 00:00,Zsolt Csikmák's birthday,24h 0m,non_work,True,
+2026-08-12,2026-08-12 00:00,2026-08-13 00:00,Dimitry Ljasuk's birthday,24h 0m,non_work,True,
 2026-08-13,2026-08-13 00:00,2026-08-14 00:00,Apu szülinap,24h 0m,ambiguous,True,
 2026-08-14,2026-08-14 14:00,2026-08-14 16:00,Boplats Syd Queue Fee,2h 0m,ambiguous,False,Pay the annual fee for the queue
-2026-08-16,2026-08-16 00:00,2026-08-17 00:00,Eszter Faludi's birthday,24h 0m,ambiguous,True,
-2026-08-17,2026-08-17 00:00,2026-08-18 00:00,András Pfaff's birthday,24h 0m,ambiguous,True,
-2026-08-17,2026-08-17 00:00,2026-08-18 00:00,Judit Gulyás's birthday,24h 0m,ambiguous,True,
-2026-08-18,2026-08-18 00:00,2026-08-19 00:00,Emôke Lôrincz's birthday,24h 0m,ambiguous,True,
+2026-08-16,2026-08-16 00:00,2026-08-17 00:00,Eszter Faludi's birthday,24h 0m,non_work,True,
+2026-08-17,2026-08-17 00:00,2026-08-18 00:00,András Pfaff's birthday,24h 0m,non_work,True,
+2026-08-17,2026-08-17 00:00,2026-08-18 00:00,Judit Gulyás's birthday,24h 0m,non_work,True,
+2026-08-18,2026-08-18 00:00,2026-08-19 00:00,Emôke Lôrincz's birthday,24h 0m,non_work,True,
 2026-08-21,2026-08-21 00:00,2026-08-22 00:00,Anyu szülinap,24h 0m,ambiguous,True,
 2026-08-21,2026-08-21 00:00,2026-08-22 00:00,Anyu szülinapja,24h 0m,ambiguous,True,
-2026-08-30,2026-08-30 00:00,2026-08-31 00:00,Kata Lódi's birthday,24h 0m,ambiguous,True,
+2026-08-30,2026-08-30 00:00,2026-08-31 00:00,Kata Lódi's birthday,24h 0m,non_work,True,
 2026-09-03,2026-09-03 00:00,2026-09-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-09-04,2026-09-04 00:00,2026-09-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
-2026-09-07,2026-09-07 00:00,2026-09-08 00:00,Anna Lebovics's birthday,24h 0m,ambiguous,True,
-2026-09-10,2026-09-10 21:00,2026-09-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-09-11,2026-09-11 00:00,2026-09-12 00:00,Gergely Kádár's birthday,24h 0m,ambiguous,True,
-2026-09-11,2026-09-11 00:00,2026-09-12 00:00,Heni Váczi's birthday,24h 0m,ambiguous,True,
+2026-09-07,2026-09-07 00:00,2026-09-08 00:00,Anna Lebovics's birthday,24h 0m,non_work,True,
+2026-09-10,2026-09-10 21:00,2026-09-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-09-11,2026-09-11 00:00,2026-09-12 00:00,Gergely Kádár's birthday,24h 0m,non_work,True,
+2026-09-11,2026-09-11 00:00,2026-09-12 00:00,Heni Váczi's birthday,24h 0m,non_work,True,
 2026-09-14,2026-09-14 17:30,2026-09-14 18:30,szülői értekezlet,1h 0m,ambiguous,False,
-2026-09-17,2026-09-17 00:00,2026-09-18 00:00,tamás horváth's birthday,24h 0m,ambiguous,True,
-2026-09-24,2026-09-24 00:00,2026-09-25 00:00,Mónika Jaskó's birthday,24h 0m,ambiguous,True,
-2026-09-25,2026-09-25 00:00,2026-09-26 00:00,Roland Kovács's birthday,24h 0m,ambiguous,True,
-2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Balázs Nagy's birthday,24h 0m,ambiguous,True,
-2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Happy birthday!,24h 0m,ambiguous,True,
-2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Balazs Nagy's birthday,24h 0m,ambiguous,True,
-2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Simon Szabó's birthday,24h 0m,ambiguous,True,
-2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Péter Lukács's birthday,24h 0m,ambiguous,True,
-2026-10-02,2026-10-02 00:00,2026-10-03 00:00,Albert Czomba's birthday,24h 0m,ambiguous,True,
+2026-09-17,2026-09-17 00:00,2026-09-18 00:00,tamás horváth's birthday,24h 0m,non_work,True,
+2026-09-24,2026-09-24 00:00,2026-09-25 00:00,Mónika Jaskó's birthday,24h 0m,non_work,True,
+2026-09-25,2026-09-25 00:00,2026-09-26 00:00,Roland Kovács's birthday,24h 0m,non_work,True,
+2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Balázs Nagy's birthday,24h 0m,non_work,True,
+2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Happy birthday!,24h 0m,non_work,True,
+2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Balazs Nagy's birthday,24h 0m,non_work,True,
+2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Simon Szabó's birthday,24h 0m,non_work,True,
+2026-09-29,2026-09-29 00:00,2026-09-30 00:00,Péter Lukács's birthday,24h 0m,non_work,True,
+2026-10-02,2026-10-02 00:00,2026-10-03 00:00,Albert Czomba's birthday,24h 0m,non_work,True,
 2026-10-03,2026-10-03 00:00,2026-10-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-10-04,2026-10-04 00:00,2026-10-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
 2026-10-04,2026-10-04 10:00,2026-10-04 14:00,Lilla kuben fixardag,4h 0m,ambiguous,False,
 2026-10-07,2026-10-07 00:00,2026-10-08 00:00,Samu szülinap,24h 0m,ambiguous,True,
-2026-10-10,2026-10-10 21:00,2026-10-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-10-16,2026-10-16 00:00,2026-10-17 00:00,Gulyás Eszter Kissné's birthday,24h 0m,ambiguous,True,
-2026-10-16,2026-10-16 00:00,2026-10-17 00:00,Szilvi Temesvari's birthday,24h 0m,ambiguous,True,
+2026-10-10,2026-10-10 21:00,2026-10-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-10-16,2026-10-16 00:00,2026-10-17 00:00,Gulyás Eszter Kissné's birthday,24h 0m,non_work,True,
+2026-10-16,2026-10-16 00:00,2026-10-17 00:00,Szilvi Temesvari's birthday,24h 0m,non_work,True,
 2026-10-17,2026-10-17 00:00,2026-10-18 00:00,Soma szülinap,24h 0m,ambiguous,True,
-2026-10-17,2026-10-17 00:00,2026-10-18 00:00,Péter Martini's birthday,24h 0m,ambiguous,True,
-2026-10-17,2026-10-17 00:00,2026-10-18 00:00,Balázsné Fekete Györgyi Józsa's birthday,24h 0m,ambiguous,True,
-2026-10-26,2026-10-26 00:00,2026-10-27 00:00,János Sallai's birthday,24h 0m,ambiguous,True,
-2026-10-28,2026-10-28 00:00,2026-10-29 00:00,Ákos István Posta's birthday,24h 0m,ambiguous,True,
+2026-10-17,2026-10-17 00:00,2026-10-18 00:00,Péter Martini's birthday,24h 0m,non_work,True,
+2026-10-17,2026-10-17 00:00,2026-10-18 00:00,Balázsné Fekete Györgyi Józsa's birthday,24h 0m,non_work,True,
+2026-10-26,2026-10-26 00:00,2026-10-27 00:00,János Sallai's birthday,24h 0m,non_work,True,
+2026-10-28,2026-10-28 00:00,2026-10-29 00:00,Ákos István Posta's birthday,24h 0m,non_work,True,
 2026-10-29,2026-10-29 00:00,2026-10-30 00:00,Jutka szülinap,24h 0m,ambiguous,True,
-2026-10-29,2026-10-29 00:00,2026-10-30 00:00,Emese Németh's birthday,24h 0m,ambiguous,True,
-2026-10-29,2026-10-29 00:00,2026-10-30 00:00,Judit Tancsics's birthday,24h 0m,ambiguous,True,
-2026-10-29,2026-10-29 00:00,2026-10-30 00:00,János Springinzeisz's birthday,24h 0m,ambiguous,True,
-2026-10-30,2026-10-30 00:00,2026-10-31 00:00,Szilvi Koleszár's birthday,24h 0m,ambiguous,True,
-2026-10-31,2026-10-31 00:00,2026-11-01 00:00,Zoltán Csordás's birthday,24h 0m,ambiguous,True,
-2026-10-31,2026-10-31 00:00,2026-11-01 00:00,Gergely Gácsi's birthday,24h 0m,ambiguous,True,
-2026-11-02,2026-11-02 00:00,2026-11-03 00:00,Tímea Nagy's birthday,24h 0m,ambiguous,True,
+2026-10-29,2026-10-29 00:00,2026-10-30 00:00,Emese Németh's birthday,24h 0m,non_work,True,
+2026-10-29,2026-10-29 00:00,2026-10-30 00:00,Judit Tancsics's birthday,24h 0m,non_work,True,
+2026-10-29,2026-10-29 00:00,2026-10-30 00:00,János Springinzeisz's birthday,24h 0m,non_work,True,
+2026-10-30,2026-10-30 00:00,2026-10-31 00:00,Szilvi Koleszár's birthday,24h 0m,non_work,True,
+2026-10-31,2026-10-31 00:00,2026-11-01 00:00,Zoltán Csordás's birthday,24h 0m,non_work,True,
+2026-10-31,2026-10-31 00:00,2026-11-01 00:00,Gergely Gácsi's birthday,24h 0m,non_work,True,
+2026-11-02,2026-11-02 00:00,2026-11-03 00:00,Tímea Nagy's birthday,24h 0m,non_work,True,
 2026-11-03,2026-11-03 00:00,2026-11-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-11-04,2026-11-04 00:00,2026-11-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
-2026-11-05,2026-11-05 00:00,2026-11-06 00:00,lászló tollár's birthday,24h 0m,ambiguous,True,
-2026-11-10,2026-11-10 00:00,2026-11-11 00:00,Roland Tomcsányi's birthday,24h 0m,ambiguous,True,
-2026-11-10,2026-11-10 21:00,2026-11-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-11-11,2026-11-11 00:00,2026-11-12 00:00,Adrienn Nagy's birthday,24h 0m,ambiguous,True,
-2026-11-13,2026-11-13 00:00,2026-11-14 00:00,Viktória Lányi's birthday,24h 0m,ambiguous,True,
+2026-11-05,2026-11-05 00:00,2026-11-06 00:00,lászló tollár's birthday,24h 0m,non_work,True,
+2026-11-10,2026-11-10 00:00,2026-11-11 00:00,Roland Tomcsányi's birthday,24h 0m,non_work,True,
+2026-11-10,2026-11-10 21:00,2026-11-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-11-11,2026-11-11 00:00,2026-11-12 00:00,Adrienn Nagy's birthday,24h 0m,non_work,True,
+2026-11-13,2026-11-13 00:00,2026-11-14 00:00,Viktória Lányi's birthday,24h 0m,non_work,True,
 2026-11-17,2026-11-17 00:00,2026-11-18 00:00,oviszünet!,24h 0m,ambiguous,True,
-2026-11-19,2026-11-19 00:00,2026-11-20 00:00,Kolos Hilt's birthday,24h 0m,ambiguous,True,
-2026-11-21,2026-11-21 00:00,2026-11-22 00:00,Tímea Szemes's birthday,24h 0m,ambiguous,True,
-2026-11-21,2026-11-21 00:00,2026-11-22 00:00,Bernadett Sulyok's birthday,24h 0m,ambiguous,True,
-2026-11-22,2026-11-22 00:00,2026-11-23 00:00,Zsófia Gyarmati's birthday,24h 0m,ambiguous,True,
-2026-11-23,2026-11-23 00:00,2026-11-24 00:00,Eszter Kovács's birthday,24h 0m,ambiguous,True,
-2026-11-23,2026-11-23 00:00,2026-11-24 00:00,András Barta's birthday,24h 0m,ambiguous,True,
-2026-11-23,2026-11-23 00:00,2026-11-24 00:00,Marian Murányi's birthday,24h 0m,ambiguous,True,
-2026-11-24,2026-11-24 00:00,2026-11-25 00:00,Diósi Katalin Kárpátiné's birthday,24h 0m,ambiguous,True,
-2026-11-25,2026-11-25 00:00,2026-11-26 00:00,Ábel Rásonyi's birthday,24h 0m,ambiguous,True,
-2026-11-27,2026-11-27 00:00,2026-11-28 00:00,Kriszta Horváth's birthday,24h 0m,ambiguous,True,
-2026-11-29,2026-11-29 00:00,2026-11-30 00:00,Zoltán Gera's birthday,24h 0m,ambiguous,True,
-2026-11-29,2026-11-29 00:00,2026-11-30 00:00,János Pál Tóth's birthday,24h 0m,ambiguous,True,
-2026-12-01,2026-12-01 00:00,2026-12-02 00:00,Gabriella Karagyéna's birthday,24h 0m,ambiguous,True,
-2026-12-02,2026-12-02 00:00,2026-12-03 00:00,Gábor Reichsmann's birthday,24h 0m,ambiguous,True,
+2026-11-19,2026-11-19 00:00,2026-11-20 00:00,Kolos Hilt's birthday,24h 0m,non_work,True,
+2026-11-21,2026-11-21 00:00,2026-11-22 00:00,Tímea Szemes's birthday,24h 0m,non_work,True,
+2026-11-21,2026-11-21 00:00,2026-11-22 00:00,Bernadett Sulyok's birthday,24h 0m,non_work,True,
+2026-11-22,2026-11-22 00:00,2026-11-23 00:00,Zsófia Gyarmati's birthday,24h 0m,non_work,True,
+2026-11-23,2026-11-23 00:00,2026-11-24 00:00,Eszter Kovács's birthday,24h 0m,non_work,True,
+2026-11-23,2026-11-23 00:00,2026-11-24 00:00,András Barta's birthday,24h 0m,non_work,True,
+2026-11-23,2026-11-23 00:00,2026-11-24 00:00,Marian Murányi's birthday,24h 0m,non_work,True,
+2026-11-24,2026-11-24 00:00,2026-11-25 00:00,Diósi Katalin Kárpátiné's birthday,24h 0m,non_work,True,
+2026-11-25,2026-11-25 00:00,2026-11-26 00:00,Ábel Rásonyi's birthday,24h 0m,non_work,True,
+2026-11-27,2026-11-27 00:00,2026-11-28 00:00,Kriszta Horváth's birthday,24h 0m,non_work,True,
+2026-11-29,2026-11-29 00:00,2026-11-30 00:00,Zoltán Gera's birthday,24h 0m,non_work,True,
+2026-11-29,2026-11-29 00:00,2026-11-30 00:00,János Pál Tóth's birthday,24h 0m,non_work,True,
+2026-12-01,2026-12-01 00:00,2026-12-02 00:00,Gabriella Karagyéna's birthday,24h 0m,non_work,True,
+2026-12-02,2026-12-02 00:00,2026-12-03 00:00,Gábor Reichsmann's birthday,24h 0m,non_work,True,
 2026-12-03,2026-12-03 00:00,2026-12-12 00:00,Vízóraállás rögzítés,216h 0m,ambiguous,True,
 2026-12-04,2026-12-04 00:00,2026-12-05 00:00,Könyvelőnek havi számlák leadása,24h 0m,ambiguous,True,
-2026-12-06,2026-12-06 00:00,2026-12-07 00:00,Jose Simon's birthday,24h 0m,ambiguous,True,
-2026-12-06,2026-12-06 00:00,2026-12-07 00:00,Magdolna Hajdu's birthday,24h 0m,ambiguous,True,
-2026-12-07,2026-12-07 00:00,2026-12-08 00:00,judit temesvári's birthday,24h 0m,ambiguous,True,
+2026-12-06,2026-12-06 00:00,2026-12-07 00:00,Jose Simon's birthday,24h 0m,non_work,True,
+2026-12-06,2026-12-06 00:00,2026-12-07 00:00,Magdolna Hajdu's birthday,24h 0m,non_work,True,
+2026-12-07,2026-12-07 00:00,2026-12-08 00:00,judit temesvári's birthday,24h 0m,non_work,True,
 2026-12-07,2026-12-07 14:30,2026-12-07 16:00,szülőkkel kézműveskedés oviban,1h 30m,ambiguous,False,
-2026-12-10,2026-12-10 21:00,2026-12-10 21:30,Fundamenta utalás Hitelkiváltó,30m,ambiguous,False,37155
-2026-12-13,2026-12-13 00:00,2026-12-14 00:00,Éva Sólyom's birthday,24h 0m,ambiguous,True,
-2026-12-16,2026-12-16 00:00,2026-12-17 00:00,Mária Vonka's birthday,24h 0m,ambiguous,True,
-2026-12-20,2026-12-20 00:00,2026-12-21 00:00,Gergô Lippai's birthday,24h 0m,ambiguous,True,
-2026-12-22,2026-12-22 00:00,2026-12-23 00:00,Gabriella Zádorlaki's birthday,24h 0m,ambiguous,True,
-2026-12-30,2026-12-30 00:00,2026-12-31 00:00,Miklós Petravich's birthday,24h 0m,ambiguous,True,
+2026-12-10,2026-12-10 21:00,2026-12-10 21:30,Fundamenta utalás Hitelkiváltó,30m,non_work,False,37155
+2026-12-13,2026-12-13 00:00,2026-12-14 00:00,Éva Sólyom's birthday,24h 0m,non_work,True,
+2026-12-16,2026-12-16 00:00,2026-12-17 00:00,Mária Vonka's birthday,24h 0m,non_work,True,
+2026-12-20,2026-12-20 00:00,2026-12-21 00:00,Gergô Lippai's birthday,24h 0m,non_work,True,
+2026-12-22,2026-12-22 00:00,2026-12-23 00:00,Gabriella Zádorlaki's birthday,24h 0m,non_work,True,
+2026-12-30,2026-12-30 00:00,2026-12-31 00:00,Miklós Petravich's birthday,24h 0m,non_work,True,
