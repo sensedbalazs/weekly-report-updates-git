@@ -1,15 +1,15 @@
 # Master Calendar Report
 
-Generated on: 2026-05-10 23:04
+Generated on: 2026-05-12 08:54
 
 ## Summary
 
-- Total days included: 212
-- Total events: 472
-- Total tracked time: 9054h 59m
-- Work events: 24
-- Non-work events: 14
-- Ambiguous events: 434
+- Total days included: 214
+- Total events: 477
+- Total tracked time: 9071h 44m
+- Work events: 25
+- Non-work events: 15
+- Ambiguous events: 437
 
 ## Monthly event counts
 
@@ -19,8 +19,8 @@ Generated on: 2026-05-10 23:04
 | 2026-02 | 72 |
 | 2026-03 | 61 |
 | 2026-04 | 79 |
-| 2026-05 | 46 |
-| 2026-06 | 22 |
+| 2026-05 | 49 |
+| 2026-06 | 24 |
 | 2026-07 | 17 |
 | 2026-08 | 22 |
 | 2026-09 | 15 |
@@ -51,13 +51,13 @@ Generated on: 2026-05-10 23:04
 | 2026-W17 | 13 |
 | 2026-W18 | 25 |
 | 2026-W19 | 21 |
-| 2026-W20 | 12 |
+| 2026-W20 | 15 |
 | 2026-W21 | 5 |
 | 2026-W22 | 5 |
 | 2026-W23 | 10 |
 | 2026-W24 | 4 |
 | 2026-W25 | 5 |
-| 2026-W26 | 2 |
+| 2026-W26 | 4 |
 | 2026-W27 | 4 |
 | 2026-W28 | 3 |
 | 2026-W29 | 4 |
